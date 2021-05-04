@@ -20,6 +20,7 @@ Caso a empresa ou aluno deseje realizar o processo via outros agentes de integra
 <ol>
 <li><a href="https://ielgoias.com.br/iel/home" target="_blank">Instituo Euvaldo Lodi (IEL)</a></li> 
 <li><a href="https://portal.ciee.org.br" target="_blank">Centro de Integração Empresa Escola (CIEE)</a></li> 
+<li><a href="https://www.nube.com.br" target="_blank">Núcleo Brasileiro de Estágios (NUBE)</a></li> 
 </ol>
 
 <br>
