@@ -1,6 +1,6 @@
 ## Seja bem-vindo ao site do Estágio Eng. Civil da UFCAT
 
-Nessa página você poderá encontrar documentações e informações a respeito do estágio da Engenharia Civil da UFCAT. 
+<p align="justify">Nessa página você poderá encontrar documentações e informações a respeito do estágio da Engenharia Civil da UFCAT.</p> 
 
 Selecione o tipo de estágio que você deseja informações?
 
