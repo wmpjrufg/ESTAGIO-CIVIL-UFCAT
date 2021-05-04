@@ -25,7 +25,16 @@ Caso a empresa ou aluno deseje realizar o processo via outros agentes de integra
 <br>
 <br>
 
-Após o preenchimento dos documentos e com o cadastro efetivado o discente assinará o contrato de estágio (TCE) e poderá iniciar sua nova jornada. Salientamos aqui que nenhum contrato de estágio pode ter carga horário superior a <b>30 horas semanais</b>.<br>
+São itens importantes a serem observados antes de começar o estágio:
+
+<ol>
+<li> Nenhum contrato de estágio pode ter carga horária superior a <b>30 horas semanais</b>;</li> 
+<li> Todo aluno de ECO deve ser segurado, portanto sempre verifique se o número de sua apólice está descrito no contrato;</li> 
+<li> Confira seus horários pois o estágio não poderá chocar com nenhuma disciplina da sua grade;</li> 
+<li> Você precisará de um professor orientador do departamento de Eng. Civil, clique no <a href="https://deciv.catalao.ufg.br/p/6185-docentes" target="_blank"><i>link</i></a> para ver a lista de professores habilitados a supervisionar.</li> 
+</ol>
+
+<br>
 
 </p>
 
