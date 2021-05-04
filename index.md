@@ -7,5 +7,5 @@ Selecione o tipo de estágio que você deseja informações?
 1. Estágio Obrigatório;
 2. Estágio Não Obrigatório.
 
-Coordenação: [Dr. Wanderlei Malaquias Pereira Junior]()
-Vice-Coordenação: [Dra. Eliane Aparecida Justino]()
+Coordenação: [Dr. Wanderlei Malaquias Pereira Junior]()  
+Vice-Coordenação: [Dra. Eliane Aparecida Justino]()  
