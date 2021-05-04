@@ -23,9 +23,10 @@ Caso a empresa ou aluno deseje realizar o processo via outros agentes de integra
 </ol>
 
 <br>
-<br>
 
 São itens importantes a serem observados antes de começar o estágio:
+
+<br>
 
 <ol>
 <li> Nenhum contrato de estágio pode ter carga horária superior a <b>30 horas semanais</b>;</li> 
