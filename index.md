@@ -4,8 +4,8 @@ Nessa página você poderá encontrar documentações e informações a respeito
 
 Selecione o tipo de estágio que você deseja informações?
 
-1. Estágio Obrigatório (ECO);
-2. Estágio Não Obrigatório (ECNO).
+1. [Estágio Obrigatório (ECO)](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/ECO.html);
+2. [Estágio Não Obrigatório (ECNO)](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/ECNO.html).
 
 Coordenação: [Dr. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)  
 Vice-Coordenação: [Dra. Eliane Aparecida Justino](http://lattes.cnpq.br/6366855147494701)  
