@@ -46,8 +46,8 @@ Documentações necessários para início do estágio: <br>
 <ol>
 <li>Termo de conhecimento e concordância com a realização do ECO (Documento devido a Pandemia da COVID 19);</li> 
 <li><i>Checklist</i> do ECO</a>;</li> 
-<li>Termo de Compromisso de Estágio (TCE) fornecido pelo agente integrador</li> 
-<li>Plano de atividades</li> 
+<li>Termo de Compromisso de Estágio (TCE) fornecido pelo agente integrador;</li> 
+<li>Plano de atividades;</li> 
 <li>Declaração de aceite do supervisor;</li> 
 <li>Declaração de aceite do professor orientador;</li> 
 <li>Tabela de horários.</li> 
