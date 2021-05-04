@@ -24,7 +24,7 @@ Caso a empresa ou aluno deseje realizar o processo via outros agentes de integra
 
 <br>
 
-São itens importantes a serem observados antes de começar o estágio:<br>
+São itens importantes a serem observados antes de começar o estágio: <br>
 
 <br>
 
