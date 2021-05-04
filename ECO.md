@@ -30,13 +30,28 @@ São itens importantes a serem observados antes de começar o estágio: <br>
 <br>
 
 <ol>
-<li> Nenhum contrato de estágio pode ter carga horária superior a <b>30 horas semanais</b>;</li> 
+<li> Nenhum contrato de estágio pode ter carga horária superior a <b>30 horas semanais</b>. Somente em período de férias a jornada poderá ser extendida para 40 horas semanais;</li> 
 <li> Todo aluno de ECO deve ser segurado, portanto sempre verifique se o número de sua apólice está descrito no contrato;</li> 
 <li> Confira seus horários pois o estágio não poderá chocar com nenhuma disciplina da sua grade;</li> 
-<li> Você precisará de um professor orientador do departamento de Eng. Civil, clique no <a href="https://deciv.catalao.ufg.br/p/6185-docentes" target="_blank"><i>link</i></a> para ver a lista de professores habilitados a supervisionar.</li> 
+<li> Você precisará de um professor orientador do departamento de Eng. Civil, clique no <a href="https://deciv.catalao.ufg.br/p/6185-docentes" target="_blank"><i>link</i></a> para ver a lista de professores habilitados a orientar.</li> 
+<li> Caso você possua bolsa o valor deverá seguir a instrução normativa nº 213, de 17/12/19, emitida pelo Ministério da Economia. 20 horas semanais: R$ 787,98, 30 horas semanais: R$ 1.125,69 + R$ 10 por dia de estágio (vale-transporte).;</li>   
 </ol>
 
 <br>
+
+Documentações necessários para início do estágio: <br>
+
+<br>
+
+<ol>
+<li>Termo de conhecimento e concordância com a realização do ECO (Documento devido a Pandemia da COVID 19);</li> 
+<li><i>Checklist</i> do ECO</a>;</li> 
+<li>Termo de Compromisso de Estágio (TCE) fornecido pelo agente integrador</li> 
+<li>Plano de atividades</li> 
+<li>Declaração de aceite do supervisor;</li> 
+<li>Declaração de aceite do professor orientador;</li> 
+<li>Tabela de horários.</li> 
+</ol>
 
 </p>
 
