@@ -46,11 +46,11 @@ Documentações necessários para início do estágio: <br>
 <ol>
 <li><a href="https://github.com/wmpjrufg/ESTAGIO-CIVIL-UFCAT/blob/gh-pages/ECO/Termo%20de%20conhecimento%20e%20concordância%20ECO%20-%20UFCAT.doc" target="_blank">Termo de conhecimento e concordância com a realização do ECO (Documento devido a Pandemia da COVID 19)</a>;</li> 
 <li><a href="https://github.com/wmpjrufg/ESTAGIO-CIVIL-UFCAT/blob/gh-pages/ECO/Checklist_ECO.docx" target="_blank"><i>Checklist</i> do ECO</a>;</li> 
-<li>Plano de atividades (Preenchido junto com o TCE);</li> 
-<li>Termo de Compromisso de Estágio (TCE) fornecido pelo agente integrador;</li> 
 <li><a href="https://forms.gle/sxrFjFXJQ9gcGe4V7" target="_blank">Declaração de aceite do profissional supervisor</a>;</li> 
 <li><a href="https://forms.gle/GMTTZM4oLtFG1Lhz9" target="_blank">Declaração de aceite do professor orientador</a>;</li> 
 <li>Tabela de horários.</li> 
+<li>Plano de atividades (Preenchido junto com o TCE);</li> 
+<li>Termo de Compromisso de Estágio (TCE) fornecido pelo agente integrador;</li> 
 </ol>
 
 </p>
