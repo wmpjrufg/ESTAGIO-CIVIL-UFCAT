@@ -48,8 +48,8 @@ Documentações necessários para início do estágio: <br>
 <li><i>Checklist</i> do ECO</a>;</li> 
 <li>Termo de Compromisso de Estágio (TCE) fornecido pelo agente integrador;</li> 
 <li>Plano de atividades;</li> 
-<li>Declaração de aceite do supervisor;</li> 
-<li>Declaração de aceite do professor orientador;</li> 
+<li><a href="https://forms.gle/sxrFjFXJQ9gcGe4V7" target="_blank">Declaração de aceite do profissional supervisor;</a>;</li> 
+<li><a href="https://forms.gle/GMTTZM4oLtFG1Lhz9" target="_blank">Declaração de aceite do professor orientador</a>;</li> 
 <li>Tabela de horários.</li> 
 </ol>
 
