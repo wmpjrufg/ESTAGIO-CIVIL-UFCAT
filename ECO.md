@@ -6,23 +6,20 @@ Para você que ainda não conhece o processo do ECO, vamos lá:
 
 Passo a passo do ECO:
 
-<p align="justify">Estabelecer o contato entre estudante e agente integrador: O agente integrador é o meio pelo qual os três pilares do estágio são conectados: Empresa, Instituição de Ensino e Discente. Para maiores informações clique no <a href="https://www.cieepr.org.br/o-que-e-um-agente-de-integracao-e-qual-o-seu-papel-junto-as-empresas-e-estudantes/#:~:text=Visando%20realizar%20a%20ponte%20entre,as%20empresas%20quanto%20para%20os"
-target="_blank">link</a>. <br>
-
+<p align="justify">O discente que irá fazer o ECO precisará estar matriculado na disciplina do curso FEA0061 - ESTÁGIO SUPERVISIONADO - TA. Uma vez matriculado nessa disciplina o discente poderá estabelecer os vínculos com empresas ou profissionais para atuar no estágio. <br>
 <br>
-
-A nossa instituição de ensino também atua como agente integrador entre empresas e alunos, basta solicitar o convênio a equipe de gestão de convênios da UFCAT pelo correrio eletrônico: <i>gestao.catalao@ufg.br</i><br>
-
+Para estabelecer o vínculo o discente deverá ter um intermediário que é o agente integrador. O agente integrador é o meio pelo qual os três pilares do estágio são conectados: Empresa, Instituição de Ensino e Discente. Para maiores informações clique no <a href="https://www.cieepr.org.br/o-que-e-um-agente-de-integracao-e-qual-o-seu-papel-junto-as-empresas-e-estudantes/#:~:text=Visando%20realizar%20a%20ponte%20entre,as%20empresas%20quanto%20para%20os"
+target="_blank">link</a> para entender um pouco sobre esse agente integrador.<br>
 <br>
-
-Caso a empresa ou aluno deseje realizar o processo via outros agentes de integração isso e perfeitamente possível, são empresas que podem atender a nossa região:
+A nossa instituição de ensino (UFCAT) também atua como agente integrador, basta solicitar o convênio com a equipe de gestão de convênios da UFCAT. Para entrar em contato com a use o seguinte correrio eletrônico: <i><b>gestao.catalao@ufg.br</b></i>.<br>
+<br>
+Caso a empresa ou aluno deseje realizar o processo via outros agentes de integração isso e perfeitamente possível, são empresas habilitadas em atender a nossa universidade:<br>
 
 <ol>
 <li><a href="https://ielgoias.com.br/iel/home" target="_blank">Instituo Euvaldo Lodi (IEL)</a></li> 
 <li><a href="https://portal.ciee.org.br" target="_blank">Centro de Integração Empresa Escola (CIEE)</a></li> 
 <li><a href="https://www.nube.com.br" target="_blank">Núcleo Brasileiro de Estágios (NUBE)</a></li> 
 </ol>
-
 <br>
 
 São itens importantes a serem observados antes de começar o estágio: <br>
