@@ -32,15 +32,8 @@ Caso a empresa ou aluno deseje realizar o processo via outros agentes de integra
 <li><a href="https://drive.google.com/file/d/1KjZkCAUxXtfnlzb_hy_1bY-zN90DRREc/view?usp=sharing" target="_blank">Quadro de horários</a>preenchido com a demarcação das horas de estágio e aulas. Assinado pelo aluno;</li> 
 <li><a href="https://drive.google.com/file/d/1-neCxJjrAF4wy7IuhCWZ0HZNwD3rPK5W/view?usp=sharing" target="_blank"><i>Checklist</i> ECO</a>;</li> 
 </ol>
-<p align="justify">No ECO não é compulsória a concessão de bolsa para maiores informações em relação a bolsa acesse a <a href="https://drive.google.com/file/d/1-neCxJjrAF4wy7IuhCWZ0HZNwD3rPK5W/view?usp=sharing" target="_blank">página de regras para concessão de bolsas</a>.</p>
+<p align="justify">A concessão de bolsa, no ECO, não é compulsória. Para maiores informações em relação a bolsa acesse a <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/BOLSA.html" target="_blank">página de regras para concessão de bolsas</a>.</p>
 
-<p align="justify">Se houver bolsa, tem que ser observado seu valor, pois, apesar de ser facultada a concessão de bolsa no ECO, caso esta exista, deverá acompanhar o mesmo procedimento para ECNO - Estágio Curricular Não Obrigatório e há Instrução Normativa vigente do Ministério da Economia com os valores mínimos para bolsa nesta modalidade de estágio. <br>
-<br>
-Critérios para concessão de bolsa:
-Art. 14. Para o estágio curricular não obrigatório, é compulsória a concessão de bolsa ao estagiário, bem como auxílio transporte. Parágrafo único. Para os estágios em empresas, órgãos governamentais, organizações não-governamentais e pessoas físicas externas à Universidade, realizados por estudantes da UFG, o valor da bolsa deve ser igual ou maior que 60% (sessenta por cento) do estipulado na Instrução Normativa vigente do Ministério da Economia para os estágios com carga horária de 20 (vinte) horas e 30 (trinta) horas e proporcional, quando se tratar de carga horária diferente, ressalvado quando a relação de estágio ocorrer com entes de níveis estadual e municipal." (NR pela Resolução CEPEC Nº 1672/2020).<br>
-<br>
-Instrução Normativa nº 213, de 17/12/19, emitida pelo Ministério da Economia, que substituiu a Orientação Normativa nº 2, de 24 de junho de 2016 - SGP/MPOG (Secretária de Gestão Pública do Ministério do Planejamento, Orçamento e Gestão), pela qual o valor mínimo de bolsa para ECO ou ECNO (nível superior) é de: R$787,98 (4h diárias ou 20h semanais) e R$1.125,69 (6h diárias ou 30 semanais) + R$10,00 por dia estagiado (vale-transporte). Obs.: Antes era R$364,00 (4h diárias ou 20h semanais) e R$520,00 (6h diárias ou 30 semanais) + R$6,00 por dia estagiado (vale-transporte).
-</p>
 
 
 
