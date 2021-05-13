@@ -6,9 +6,11 @@
 <br>
 Se houver bolsa no ECO, tem que ser observado seu valor, pois, apesar de ser facultada a concessão de bolsa no ECO, caso esta exista, deverá acompanhar o mesmo procedimento para ECNO - Estágio Curricular Não Obrigatório e há Instrução Normativa vigente do Ministério da Economia com os valores mínimos para bolsa nesta modalidade de estágio.<br>
 <br>
-Critérios para concessão de bolsa:  
+Critérios para concessão de bolsa:<br>
 <br>
-Art. 14. da Resolução CEPEC Nº 1538R/2017 - Reeditada com as alterações introduzidas pela Resolução CEPEC Nº 1672, de 29/05/2020, <i>verbis</i>: Para o Estágio Curricular Não Obrigatório, é compulsória a concessão de bolsa ao estagiário, bem como auxílio transporte.<br>
+Art. 14. da Resolução CEPEC Nº 1538R/2017 - Reeditada com as alterações introduzidas pela Resolução CEPEC Nº 1672, de 29/05/2020, <i>verbis</i>: <br>
+<br>
+Para o Estágio Curricular Não Obrigatório, é compulsória a concessão de bolsa ao estagiário, bem como auxílio transporte.<br>
 <br>
 Parágrafo único. Para os estágios em empresas, órgãos governamentais, organizações não-governamentais e pessoas físicas externas à Universidade, realizados por estudantes da UFG, o valor da bolsa deve ser igual ou maior que 60% (sessenta por cento) do estipulado na Instrução Normativa vigente do Ministério da Economia para os estágios com carga horária de 20 (vinte) horas e 30 (trinta) horas e proporcional, quando se tratar de carga horária diferente, ressalvado quando a relação de estágio ocorrer com entes de níveis estadual e municipal. (NR pela Resolução CEPEC Nº 1672/2020).<br>
 <br>
