@@ -7,7 +7,7 @@ Para você que ainda não conhece o processo do ECO, vamos lá:
 <p align="justify">O discente que irá fazer o ECO precisará estar matriculado na disciplina do curso <b>FEA0061 - ESTÁGIO SUPERVISIONADO - TA</b>. Uma vez matriculado nessa disciplina o discente poderá estabelecer os vínculos com empresas ou profissionais para atuar no estágio. <br>
 <br>
 Para estabelecer o vínculo o discente deverá ter um intermediário que é o agente integrador. O agente integrador é o meio pelo qual os três pilares do estágio são conectados: Empresa, Instituição de Ensino e Discente. Para maiores informações clique no <a href="https://www.cieepr.org.br/o-que-e-um-agente-de-integracao-e-qual-o-seu-papel-junto-as-empresas-e-estudantes/#:~:text=Visando%20realizar%20a%20ponte%20entre,as%20empresas%20quanto%20para%20os"
-target="_blank">link</a> para entender um pouco sobre o agente integrador.<br>
+target="_blank"><i>link</i></a> para entender um pouco sobre o agente integrador.<br>
 <br>
 A nossa instituição de ensino (UFCAT) também atua como agente integrador, basta solicitar o convênio com a equipe de gestão administrativa da UFCAT.<br>
 <br>
@@ -29,9 +29,10 @@ Caso a empresa ou aluno deseje realizar o processo via outros agentes de integra
 <li><a href="https://forms.gle/sxrFjFXJQ9gcGe4V7" target="_blank">Declaração de aceite do profissional supervisor</a>;</li> 
 <li><a href="https://forms.gle/GMTTZM4oLtFG1Lhz9" target="_blank">Declaração de aceite do professor orientador</a>;</li> 
 <li><a href="https://forms.gle/sxrFjFXJQ9gcGe4V7" target="_blank">Plano de atividades do estágio</a>;</li> 
-<li><a href="https://drive.google.com/file/d/1KjZkCAUxXtfnlzb_hy_1bY-zN90DRREc/view?usp=sharing" target="_blank">Quadro de horários</a>preenchido com a demarcação das horas de estágio e aulas. Assinado pelo aluno;</li> 
-<li><a href="https://drive.google.com/file/d/1-neCxJjrAF4wy7IuhCWZ0HZNwD3rPK5W/view?usp=sharing" target="_blank"><i>Checklist</i> ECO</a>;</li> 
+<li>Fazer o <i>download</i> do <a href="https://drive.google.com/file/d/1KjZkCAUxXtfnlzb_hy_1bY-zN90DRREc/view?usp=sharing" target="_blank">Quadro de Horários </a>preencher com a demarcação das horas de estágio e aulas e assinar o PDF;</li> 
+<li><a href="https://drive.google.com/file/d/1-neCxJjrAF4wy7IuhCWZ0HZNwD3rPK5W/view?usp=sharing" target="_blank"><i>Checklist</i> do ECO preenchido</a>;</li> 
 </ol>
+<p align="justify">Não se esqueça de recolher a assinatura em todos os documentos para que seu estágio tenha validade.</p>
 <p align="justify">A concessão de bolsa, no ECO, não é compulsória. Para maiores informações em relação a bolsa acesse a <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/BOLSA.html" target="_blank">página de regras para concessão de bolsas</a>.</p>
 
 
