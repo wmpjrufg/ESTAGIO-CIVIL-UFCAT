@@ -32,7 +32,7 @@ Caso a empresa ou aluno deseje realizar o processo via outros agentes de integra
 <li>Fazer o <i>download</i> do <a href="https://drive.google.com/file/d/1KjZkCAUxXtfnlzb_hy_1bY-zN90DRREc/view?usp=sharing" target="_blank">Quadro de Horários </a>preencher com a demarcação das horas de estágio e aulas e assinar o PDF;</li> 
 <li><a href="https://drive.google.com/file/d/1-neCxJjrAF4wy7IuhCWZ0HZNwD3rPK5W/view?usp=sharing" target="_blank"><i>Checklist</i> do ECO preenchido</a>;</li> 
 </ol>
-<p align="justify">Não se esqueça de recolher a assinatura em todos os documentos para que seu estágio tenha validade.</p>
+<p align="justify">Não se esqueça de recolher a assinatura em todos os documentos para que seu estágio tenha validade. Além disso é muito importante que você aluno esteja segurado. Consulte seu contrato para checar se o número de apólice está explicita no texto. No caso de um TCE elaborado pela UFCAT esse número de apólice é dada pelo documento do <a href="https://drive.google.com/file/d/15tQhbNQMr4sfbt5tYPZCAcF4obIfqCNH/view?usp=sharing" target="_blank"><i>link</i></a></p>
 <p align="justify">A concessão de bolsa, no ECO, não é compulsória. Para maiores informações em relação a bolsa acesse a <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/BOLSA.html" target="_blank">página de regras para concessão de bolsas</a>.</p>
 
 
