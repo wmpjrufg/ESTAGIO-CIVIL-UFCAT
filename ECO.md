@@ -28,7 +28,7 @@ Caso a empresa ou aluno deseje realizar o processo via outros agentes de integra
 <li><a href="https://drive.google.com/file/d/1262fw5ZL3l6lrqzSZjFmmg1D7oqZRexZ/view?usp=sharing" target="_blank">Termo de conhecimento e concordância com a realização do ECO (Documento devido a Pandemia da COVID 19)</a>;</li> 
 <li><a href="https://forms.gle/sxrFjFXJQ9gcGe4V7" target="_blank">Declaração de aceite do profissional supervisor</a>;</li> 
 <li><a href="https://forms.gle/z5Gwr3tXKHMxFMAk9" target="_blank">Declaração de aceite do professor orientador</a>;</li> 
-<li><a href="https://forms.gle/sxrFjFXJQ9gcGe4V7" target="_blank">Plano de atividades do estágio</a>;</li> 
+<li><a href="https://drive.google.com/file/d/1LkPaj0A1gw1UuNPIF3ROMXQ6vmFMymru/view?usp=sharing" target="_blank">Plano de atividades do estágio</a>;</li> 
 <li>Fazer o <i>download</i> do <a href="https://drive.google.com/file/d/1KjZkCAUxXtfnlzb_hy_1bY-zN90DRREc/view?usp=sharing" target="_blank">Quadro de Horários </a>preencher com a demarcação das horas de estágio e aulas e assinar o PDF;</li> 
 <li><a href="https://drive.google.com/file/d/1-neCxJjrAF4wy7IuhCWZ0HZNwD3rPK5W/view?usp=sharing" target="_blank"><i>Checklist</i> do ECO preenchido</a>;</li> 
 </ol>
