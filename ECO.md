@@ -17,6 +17,8 @@ target="_blank">consultar os convênios</a> que já estão celebrados pela nossa
 <br>
 Após a organização dos documentos encaminhe um correrio eletrônico (<i><b>gestao.catalao@ufg.br</b></i>) para o setor de convênios solicitando tal cadastrado. Coloque em cópia, na mensagem, os seguintes contatos: <i><b>cge.prograd@ufcat.edu.br</b></i>, <i><b>estagio.deciv.ufcat@gmail.com</b></i>.<br>
 <br>
+Em caso de dúvidas procure a gestão de convênios pelo e-mail informado eles irão esclarecer as dúvidas documentais relativas a esse covênio.<br>  
+<br>
 Caso a empresa ou aluno deseje realizar o processo via outros agentes de integração isso e perfeitamente possível, são empresas habilitadas em atender a nossa universidade:<br></p>
 <ol>
 <li><a href="https://ielgoias.com.br/iel/home" target="_blank">Instituo Euvaldo Lodi (IEL)</a></li> 
