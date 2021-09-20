@@ -1,4 +1,4 @@
-## Seja bem-vindo ao site da disciplina de Estágio Curricular da Eng. Civil da UFCAT
+## Estágio Curricular da Eng. Civil da UFCAT
 
 <p align="justify">Nessa página você poderá encontrar documentações e informações a respeito do estágio no curso de Engenharia Civil da UFCAT.</p> 
 
