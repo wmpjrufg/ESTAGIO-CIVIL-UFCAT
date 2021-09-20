@@ -1,4 +1,4 @@
-## Seja bem-vindo à página da concessão de bolsas
+## Concessão de bolsas
 
 <p align="justify">Nesta página você discente terá acesso as informações de concessão de bolsas no Estágio Curricular da Universidade Federal de Catalão (UFCAT) relativo ao curso de Engenharia Civil.</p>
 
