@@ -22,7 +22,7 @@ target="_blank">consultar os convênios</a> que já estão celebrados pela nossa
   Após a organização dos documentos encaminhe um correrio eletrônico (<i><b>gestao.catalao@ufg.br</b></i>) para o setor de convênios solicitando tal cadastrado. Coloque em cópia, na mensagem, os seguintes contatos: <i><b>cge.prograd@ufcat.edu.br</b></i>, <i><b>estagio.deciv.ufcat@gmail.com</b></i>.<br>
 <br>
 
-  Em caso de dúvidas procure a gestão de convênios pelo e-mail informado eles irão esclarecer as dúvidas documentais relativas a esse covênio.<br>  
+  Em caso de dúvidas procure a gestão de convênios pelo e-mail informado eles irão esclarecer as dúvidas documentais relativas a esse covênio. Você também pode acessar a página do estágio da UFCAT que posssui estas informações, <a href="https://estagio.catalao.ufg.br/p/37376-documentacao" target="_blank">clique aqui</a>.<br>  
 <br>
 
   Caso a empresa e/ou aluno desejem realizar o processo via outros agentes de integração isso é perfeitamente possível, são empresas habilitadas para atender a nossa universidade:<br></p>
@@ -46,7 +46,7 @@ target="_blank">consultar os convênios</a> que já estão celebrados pela nossa
 
 <p align="justify">É muito importante que antes da assinatura do estágio o coordenador do estágio tenha ciência do seu plano de trabalho. Portanto recolhidas todas as assinaturas você poderá elaborar seu contrato de estágio ou TCE.</p>
 
-<p align="justify">Não se esqueça de recolher a assinatura em todos os documentos para que seu estágio tenha validade. Além disso é muito importante que você aluno esteja segurado. Consulte seu contrato para checar se o número de apólice está explicita no texto. No caso de um TCE elaborado pela UFCAT esse número de apólice é dada pelo documento do <a href="https://drive.google.com/file/d/15tQhbNQMr4sfbt5tYPZCAcF4obIfqCNH/view?usp=sharing" target="_blank"><i>link</i></a></p>
+<p align="justify">Não se esqueça de recolher a assinatura em todos os documentos para que seu estágio tenha validade. Além disso é muito importante que você aluno esteja segurado. Consulte seu contrato para checar se o número de apólice está explicita no texto. No caso de um TCE elaborado pela UFCAT esse número de apólice é dada pelo documento do <a href="https://estagio.catalao.ufg.br/p/36446-apolice" target="_blank"><i>link</i></a></p>
 <p align="justify">A concessão de bolsa, no ECO, não é compulsória. Para maiores informações em relação a bolsa acesse a <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/BOLSA.html" target="_blank">página de regras para concessão de bolsas</a>.</p>
 
 
