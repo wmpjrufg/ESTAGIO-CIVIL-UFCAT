@@ -45,12 +45,12 @@ target="_blank">UFCAT [Menu -> Convênios -> Empresas Conveniadas]/a>).<br>
 <li><a href="https://drive.google.com/file/d/1yRFCCd6M0YdQfO0wzkkK6xcDfIzAcuIE/view?usp=sharing" target="_blank"><i>Checklist</i> do ECNO preenchido</a>;</li> 
 </ol>
 
-<p align="justify">É muito importante que antes da assinatura do estágio o coordenador do estágio tenha ciência do seu plano de trabalho. Portanto recolhidas todas as assinaturas você poderá elaborar seu contrato de estágio ou TCE.</p>
+<p align="justify">É muito importante que antes da assinatura do estágio o coordenador do estágio tenha ciência do seu plano de trabalho. Portanto recolhidas todas as assinaturas você poderá elaborar seu contrato de estágio ou TCE. Caso seu estágio esteja vinculado pela UFCAT o contrato de estágio deve ser elaborado pelo próprio discente. Para obtenção do modelo solitice ao pessoal do convênio de estágio ou consulte a <a href="https://estagio.catalao.ufg.br" target="_blank">página do estágio</a> na aba formulários. Lembre-se de ficar atento a sua modalidade de estágio. Caso o esteja vinculado a outro agente integrador silicite a este a elaboração do TCE.</p>
 
 <p align="justify">Não se esqueça de recolher a assinatura em todos os documentos para que seu estágio tenha validade. Além disso é muito importante que você aluno esteja segurado. Consulte seu contrato para checar se o número de apólice está explicita no texto. No caso de um TCE elaborado pela UFCAT esse número de apólice é dada pelo documento do <a href="https://estagio.catalao.ufg.br/p/36446-apolice" target="_blank"><i>link</i></a></p>
 
 <p align="justify">A concessão de bolsa, no ECNO, é compulsória. Para maiores informações em relação a bolsa acesse a <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/BOLSA.html" target="_blank">página de regras para concessão de bolsas</a>.</p>
 
+<p align="justify">Após recolhimento de todas as assinaturas nos documentos é obrigatório a partir de 2021 que o ECNO seja registrado via SEI. Para maiores informações acesse o <a href="https://files.cercomp.ufg.br/weby/up/610/o/Tutorial_de_Peticionamento_no_SEI_-_ECNO_%281%29.pdf" target="_blank">tutorial</a> de como cadastrar o ECNO no SEI. Sempre informe o coordenador de estágio ao fim desse cadastro para que ele realize o registro do n° de processo SEI (Informe pelo e-mail: estagio.deciv.ufcat@gmail.com).</p>
 
-
-
+<p align="justify">A avaliação e finalização do estágio tipo ECNO será realizada pelo coordenador de estágio do curso de Engenharia Civil. O discente não tem carga horária mínima ou máxima para realização do estágio porém este deverá produzir um relatório semestral informando ao coordenador o andamento deste estágio. O mesmo não terá uma banca de avaliação ao final.</p>
