@@ -15,14 +15,15 @@ target="_blank"><i>link</i></a> para entender um pouco sobre o agente integrador
 <br>
 
   Caso opte por fazer essa intermediação via UFCAT reuna os documentos necessários que estão descritos na <a href="https://estagio.catalao.ufg.br/p/37376-documentacao"
-target="_blank">página de convênios do estágio</a>. Você também pode <a href="https://www.convenios.ufg.br/p/2454-instrumentos-celebrados-pela-ufg"
-target="_blank">consultar os convênios</a> que já estão celebrados pela nossa universidade.<br> 
+target="_blank">página de convênios do estágio</a>. Você também pode consultar os convênios que já estão celebrados pela nossa universidade (<a href="https://www.convenios.ufg.br/p/2454-instrumentos-celebrados-pela-ufg"
+target="_blank">UFG</a>, <a href="https://estagio.catalao.ufg.br"
+target="_blank">UFCAT [Menu -> Convênios -> Empresas Conveniadas]/a>).<br> 
 <br>
 
   Após a organização dos documentos encaminhe um correrio eletrônico (<i><b>gestao.catalao@ufg.br</b></i>) para o setor de convênios solicitando tal cadastrado. Coloque em cópia, na mensagem, os seguintes contatos: <i><b>cge.prograd@ufcat.edu.br</b></i>, <i><b>estagio.deciv.ufcat@gmail.com</b></i>.<br>
 <br>
 
-  Em caso de dúvidas procure a gestão de convênios pelo e-mail informado eles irão esclarecer as dúvidas documentais relativas a esse covênio. Você também pode acessar a página do estágio da UFCAT que posssui estas informações, <a href="https://estagio.catalao.ufg.br/p/37376-documentacao" target="_blank">clique aqui</a>.<br>  
+  Em caso de dúvidas procure a gestão de convênios pelo e-mail informado eles irão esclarecer as dúvidas documentais relativas a esse covênio.<br>  
 <br>
 
   Caso a empresa e/ou aluno desejem realizar o processo via outros agentes de integração isso é perfeitamente possível, são empresas habilitadas para atender a nossa universidade:<br></p>
