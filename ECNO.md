@@ -1,4 +1,4 @@
-## Seja bem-vindo à página do Estagio Curricular Não Obrigatório (ECNO)
+## Estágio Curricular Não Obrigatório (ECNO)
 
 <p align="justify">Nesta página você discente terá acesso as informações do Estágio Curricular Não Obrigatório (ECNO) da Universidade Federal de Catalão (UFCAT) relativo ao curso de Engenharia Civil.</p>
 
