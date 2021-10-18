@@ -1,4 +1,4 @@
-## Estagio Curricular Obrigatório (ECO)
+## Estágio Curricular Obrigatório (ECO)
 
 <p align="justify">Nesta página você discente terá acesso as informações do Estágio Curricular Obrigatório (ECO) da Universidade Federal de Catalão (UFCAT) relativo ao curso de Engenharia Civil.</p>
 
