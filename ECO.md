@@ -41,7 +41,7 @@ A avaliação e finalização do estágio tipo ECO será realizada pelo professo
 
 ### Avaliação do Estágio Curricular Obrigatório (ECO)
 
-<p align="justify">A avaliação do ECO no curso de Engenharia Civil é realizada por meio de uma apresentação em formato de banca e a entrega de um relatório final: Ambos os modelos constam a seguir:</p>
+<p align="justify">A avaliação do ECO no curso de Engenharia Civil é realizada por meio de uma apresentação em formato de banca e a entrega de um relatório final. Ambos os modelos constam a seguir:</p>
 
 <ol>
 <li><a href="https://docs.google.com/document/d/10cWUzFzAe3vbGXtWviOtuRYJvH7NQv_DmthMYs8OQU4/edit?usp=sharing" target="_blank">Modelo de relatório final do estágio</a>;</li> 
