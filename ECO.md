@@ -44,8 +44,9 @@ A avaliação e finalização do estágio tipo ECO será realizada pelo professo
 <p align="justify">A avaliação do ECO no curso de Engenharia Civil é realizada por meio de uma apresentação em formato de banca e a entrega de um relatório final. Ambos os modelos constam a seguir:</p>
 
 <ol>
+<li><a href="https://docs.google.com/document/d/1GS_uwq4fIUbMwn3R-BN-1uzdz_-bf4rICOoFg-VoxuI/edit?usp=sharing" target="_blank">Modelo de relatório parcial do estágio</a> que é inserido no relatório final;</li> 
 <li><a href="https://docs.google.com/document/d/10cWUzFzAe3vbGXtWviOtuRYJvH7NQv_DmthMYs8OQU4/edit?usp=sharing" target="_blank">Modelo de relatório final do estágio</a>;</li> 
-<li><a href="https://docs.google.com/presentation/d/130cTv4McoylRHSWXSO98lbOzGyGISXeN/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Modelo de apresentação final do estágio</a>;</li> 
+<li><a href="https://docs.google.com/presentation/d/130cTv4McoylRHSWXSO98lbOzGyGISXeN/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Modelo de apresentação final do estágio</a>.</li> 
 </ol>
 
 <p align="justify">É recomendável que o relatório final de estágio obrigatório seja elaborado com o decorrer do estágio pois é necessária a assinatura de relatórios mensais.<br><br>
