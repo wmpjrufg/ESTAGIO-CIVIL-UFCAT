@@ -12,7 +12,7 @@ Para você que ainda não conhece o processo do ECO, vamos lá:
 Para estabelecer o vínculo o discente deverá ter um intermediário que é o agente integrador. O agente integrador é o meio pelo qual os três pilares do estágio são conectados. Para consultar maiores detalhes sobre esta integração acesse o <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/AGENTE.html" target="_blank"><i>link</i></a>.<br><br>
 
   
-<p align="justify">Realizado o convênio o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Para dar andamento a esse documento, tenha os seguintes documentos devidamente assinados:</p>
+Realizado o convênio o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Para dar andamento a esse documento, tenha os seguintes documentos devidamente assinados:</p>
 
 
 <ol>
