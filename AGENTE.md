@@ -3,7 +3,7 @@
 <p align="justify">Nesta página você discente terá acesso as informações do Estágio da Universidade Federal de Catalão (UFCAT) relativo ao curso de Engenharia Civil.</p>
 
 
-<p align="justify">O primeiro passo do estágio é existir um interesse entre aluno e empresa para que este vínculo seja efetuado. Uma vez manifestado o interesse entre as partes o discente deverá informar qual a modalidade de estágio, seja ele o <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/ECNO.html" target="_blank"><i>Estágio Curricular Não Obrigatório (ECNO)</i></a> ou o <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/ECNO.html" target="_blank"><i>Estágio Curricular Obrigatório (ECO)</i></a>.<br><br>
+<p align="justify">O primeiro passo do estágio é existir um interesse entre aluno e empresa para que este vínculo seja efetuado. Uma vez manifestado o interesse entre as partes o discente deverá informar qual a modalidade de estágio, seja ele o <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/ECNO.html" target="_blank"><i>Estágio Curricular Não Obrigatório (ECNO)</i></a> ou o <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/ECO.html" target="_blank"><i>Estágio Curricular Obrigatório (ECO)</i></a>.<br><br>
 
   
 Para estabelecer o vínculo o discente deverá ter um intermediário que é o agente integrador. O agente integrador é o meio pelo qual os três pilares do estágio são conectados: Empresa, Instituição de Ensino e Discente. Para maiores informações sobre o conceito de agente integrador clique no <a href="https://www.cieepr.org.br/o-que-e-um-agente-de-integracao-e-qual-o-seu-papel-junto-as-empresas-e-estudantes/#:~:text=Visando%20realizar%20a%20ponte%20entre,as%20empresas%20quanto%20para%20os"
