@@ -4,23 +4,29 @@
 
 Para você que ainda não conhece o processo do ECO, vamos lá:
 
-<p align="justify">O discente que irá fazer o ECO precisará estar matriculado na disciplina do curso <b>FEA0061 - ESTÁGIO SUPERVISIONADO - TA</b>. Uma vez matriculado nessa disciplina o discente poderá estabelecer os vínculos com empresas ou profissionais para atuar no estágio. <br>
+<p align="justify">O discente que irá fazer o ECO precisará estar matriculado na disciplina do curso <b>FEA0061 - ESTÁGIO SUPERVISIONADO</b>. Uma vez matriculado nessa disciplina o discente poderá estabelecer os vínculos com empresas ou profissionais para atuar no mercado de trabalho.<br>
 <br>
 
-  Para estabelecer o vínculo o discente deverá ter um intermediário que é o agente integrador. O agente integrador é o meio pelo qual os três pilares do estágio são conectados: Empresa, Instituição de Ensino e Discente. Para maiores informações clique no <a href="https://www.cieepr.org.br/o-que-e-um-agente-de-integracao-e-qual-o-seu-papel-junto-as-empresas-e-estudantes/#:~:text=Visando%20realizar%20a%20ponte%20entre,as%20empresas%20quanto%20para%20os"
-target="_blank"><i>link</i></a> para entender um pouco sobre o agente integrador.<br>
+Para estabelecer o vínculo o discente deverá ter um intermediário que é o agente integrador. O agente integrador é o meio pelo qual os três pilares do estágio são conectados: Empresa, Instituição de Ensino e Discente. Para maiores informações sobre o conceito de agente integrador clique no <a href="https://www.cieepr.org.br/o-que-e-um-agente-de-integracao-e-qual-o-seu-papel-junto-as-empresas-e-estudantes/#:~:text=Visando%20realizar%20a%20ponte%20entre,as%20empresas%20quanto%20para%20os"
+target="_blank"><i>link</i></a>.<br>
 <br>
 
-  A nossa instituição de ensino (UFCAT) também atua como agente integrador, basta solicitar o convênio com a equipe de gestão administrativa da UFCAT.<br>
+São diversas as opções de integração entre aluno e universidade, consulte a sua empresa e/ou a universidade para verificar as possibilidades. A UFCAT já possui em seu cadastro diversos agentes habilitados. Para maiores informações sobre os agente habilitados clique no <a href="https://estagio.catalao.ufg.br/p/37440-agentes-de-integracao-ufcat" target="_blank"><i>link</i></a>.<br>
+<br>
+  
+  
+A nossa instituição de ensino (UFCAT) também atua como agente integrador, basta solicitar o convênio com a equipe de gestão administrativa da UFCAT. Para realizar o convênio com a UFCAT basta acessar o <a href="https://estagio.catalao.ufg.br/p/37376-documentacao" target="_blank"><i>link</i></a>.<br>
+<br>
+  
 <br>
 
-  Caso opte por fazer essa intermediação via UFCAT reuna os documentos necessários que estão descritos na <a href="https://estagio.catalao.ufg.br/p/37376-documentacao"
+Caso opte por fazer essa intermediação via UFCAT reuna os documentos necessários que estão descritos na <a href="https://estagio.catalao.ufg.br/p/37376-documentacao"
 target="_blank">página de convênios do estágio</a>. Você também pode consultar os convênios que já estão celebrados pela nossa universidade (<a href="https://www.convenios.ufg.br/p/2454-instrumentos-celebrados-pela-ufg"
 target="_blank">UFG</a>, <a href="https://estagio.catalao.ufg.br"
 target="_blank">UFCAT (Menu -> Convênios -> Empresas Conveniadas)</a>).<br> 
 <br>
 
-  Após a organização dos documentos encaminhe um correrio eletrônico (<i><b>gestao.catalao@ufg.br</b></i>) para o setor de convênios solicitando tal cadastrado. Coloque em cópia, na mensagem, os seguintes contatos: <i><b>cge.prograd@ufcat.edu.br</b></i>, <i><b>estagio.deciv.ufcat@gmail.com</b></i>.<br>
+  Após a organização dos documentos encaminhe um correrio eletrônico (<i><b>planejamento.catalao@ufg.br</b></i>) para o setor de convênios solicitando tal cadastrado. Coloque em cópia, na mensagem, os seguintes contatos: <i><b>cge.prograd@ufcat.edu.br</b></i>, <i><b>estagio.deciv.ufcat@gmail.com</b></i>.<br>
 <br>
 
   Em caso de dúvidas procure a gestão de convênios pelo e-mail informado eles irão esclarecer as dúvidas documentais relativas a esse covênio.<br>  
