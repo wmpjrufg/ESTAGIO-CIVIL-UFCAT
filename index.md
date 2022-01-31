@@ -13,6 +13,7 @@ Selecione o tipo de informações que você deseja?
 
 Coordenação: [Dr. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)  
 Vice-Coordenação: [Dra. Eliane Aparecida Justino](http://lattes.cnpq.br/6366855147494701)  
+Portaria: **Portaria SEI N° 19, de 19 de Abril de 2021**
 
 Contato por correio eletrônico: _**estagio.deciv.ufcat@gmail.com**_
 
