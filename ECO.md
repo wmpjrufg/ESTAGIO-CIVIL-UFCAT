@@ -25,7 +25,7 @@ Realizado o convênio o discente deverá dar andamento aos documentos para elabo
 </ol>
 
 
-<p align="justify">É muito importante que antes da assinatura do contrato de estágio o coordenador do estágio tenha ciência do seu plano de trabalho. Contratos enviados sem o plano de trabalham não serão assinados.<br>
+<p align="justify">É muito importante que antes da assinatura do contrato de estágio o coordenador do estágio tenha ciência do seu plano de trabalho. Contratos enviados sem o plano de trabalho não serão assinados pela coordenação de estágio.<br>
   
 Portanto recolhida todas as assinaturas você poderá elaborar seu contrato de estágio (TCE). Caso seu estágio esteja vinculado pelo agente integrador Universidade o contrato de estágio deve ser elaborado pelo próprio discente. Para obtenção do modelo solitice ao pessoal do convênio de estágio ou consulte a <a href="https://estagio.catalao.ufg.br" target="_blank">página do estágio</a> na aba formulários. Lembre-se de ficar atento a sua modalidade de estágio. Caso o esteja vinculado a outro agente integrador solicite a este a elaboração do TCE.<br><br>
 
