@@ -48,3 +48,6 @@ A avaliação e finalização do estágio tipo ECO será realizada pelo professo
 <li><a href="https://docs.google.com/presentation/d/130cTv4McoylRHSWXSO98lbOzGyGISXeN/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Modelo de apresentação final do estágio</a>;</li> 
 </ol>
 
+<p align="justify">É recomendável que o relatório final de estágio obrigatório seja elaborado com o decorrer do estágio pois é necessária a assinatura de relatórios mensais.<br><br>
+
+Sobre a apresentação do estágio a mesma deverá ter a duração máxima de 5 minutos com a defesa do seu estágio. Ao final a banca atribuirá uma nota a sua defesa. Está nota será efetiva por meio do preenchimento de uma ata que posteriormente é enviada ao discente permitindo assim que o mesmo anexe esta no relatório final de estágio.</p>
