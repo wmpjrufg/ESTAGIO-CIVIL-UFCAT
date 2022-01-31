@@ -38,12 +38,12 @@ Após recolhimento de todas as assinaturas nos documentos é obrigatório a part
   
 <ol>
 <li>Plano de Atividades (PA):  assinado pelo estudante, coordenador de estágio do curso, supervisor concedente e professor orientador do estágio;</li> 
-<li>ermo de Compromisso (TCE):  assinado pelo estudante, responsável legal pela concedente e coordenador de estágio do curso.</li> 
+<li>Termo de Compromisso (TCE):  assinado pelo estudante, responsável legal pela concedente e coordenador de estágio do curso.</li> 
 </ol>
 
 
 ### Avaliação do Estágio Curricular Não Obrigatório (ECNO)
 
-<p align="justify">A avaliação e finalização do estágio tipo ECNO é realizada automaticamente no encerramento do contrato. O discente não tem carga horária mínima ou máxima para realização do estágio porém este deverá produzir relatórios semestrais parciais/finais. O modelo deste relatório parcial/final pode ser acessado pelo <a href="https://docs.google.com/document/d/1_JJomR59rD115Pd2ZM8Es57o_pQY_ZuyvjBeY2KaxSI/edit?usp=sharing" target="_blank">link</a>.
+<p align="justify">A avaliação e finalização do estágio tipo ECNO é realizada automaticamente no encerramento do contrato. O discente não tem carga horária mínima ou máxima para realização do estágio porém este deverá produzir relatórios semestrais parciais/finais. O modelo deste relatório parcial  pode ser acessado pelo <a href="https://docs.google.com/document/d/1GS_uwq4fIUbMwn3R-BN-1uzdz_-bf4rICOoFg-VoxuI/edit?usp=sharing" target="_blank">link</a>. Já o modelo do relatório final pode ser acessado pelo <a href="https://docs.google.com/document/d/1_JJomR59rD115Pd2ZM8Es57o_pQY_ZuyvjBeY2KaxSI/edit?usp=sharing" target="_blank">link</a>.
 
 É recomendável que o relatório semestral de estágio não obrigatório seja elaborado com o decorrer do estágio pois como se trata de um periódo muito extenso, portanto algumas informações podem se perder nesta caminhada.<br><br></p>
