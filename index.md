@@ -6,9 +6,10 @@ Selecione o tipo de informações que você deseja?
 
 1. [Resolução geral de estágio da Universidade](https://files.cercomp.ufg.br/weby/up/579/o/Resolucao_CEPEC_2017_1557R.pdf);
 2. [PPC do curso de Engenharia Civil item 7 - Política de Estágio](https://files.cercomp.ufg.br/weby/up/620/o/ppc.pdf);
-3. [Estágio Obrigatório (ECO)](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/ECO.html);
-4. [Estágio Não Obrigatório (ECNO)](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/ECNO.html);
-5. [Bolsas para estágio](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/BOLSA.html);
+3. [Roteiro geral do processo]();
+4. [Estágio Obrigatório (ECO)](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/ECO.html);
+5. [Estágio Não Obrigatório (ECNO)](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/ECNO.html);
+6. [Bolsas para estágio](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/BOLSA.html);
 
 Coordenação: [Dr. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)  
 Vice-Coordenação: [Dra. Eliane Aparecida Justino](http://lattes.cnpq.br/6366855147494701)  
