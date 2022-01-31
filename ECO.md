@@ -31,8 +31,20 @@ Realizado o convênio o discente deverá dar andamento aos documentos para elabo
 Portanto recolhida todas as assinaturas você poderá elaborar seu contrato de estágio (TCE). Caso seu estágio esteja vinculado pelo agente integrador Universidade o contrato de estágio deve ser elaborado pelo próprio discente. Para obtenção do modelo solitice ao pessoal do convênio de estágio ou consulte a <a href="https://estagio.catalao.ufg.br" target="_blank">página do estágio</a> na aba formulários. Lembre-se de ficar atento a sua modalidade de estágio. Caso o esteja vinculado a outro agente integrador solicite a este a elaboração do TCE.<br><br>
 
 
-Não se esqueça de recolher a assinatura em todos os documentos para que seu estágio tenha validade. Além disso é muito importante que você aluno esteja segurado. Consulte seu contrato para checar se o número de apólice está explicita no texto. No caso de um TCE elaborado pela Universidade esse número de apólice é dada pelo documento do <a href="https://estagio.catalao.ufg.br/p/36446-apolice" target="_blank"><i>link</i></a>.<br><br></p>
+Não se esqueça de recolher a assinatura em todos os documentos para que seu estágio tenha validade. Além disso é muito importante que você aluno esteja segurado. Consulte seu contrato para checar se o número de apólice está explicita no texto. No caso de um TCE elaborado pela Universidade esse número de apólice é dada pelo documento do <a href="https://estagio.catalao.ufg.br/p/36446-apolice" target="_blank"><i>link</i></a>.<br><br>
 
-<p align="justify">A concessão de bolsa, no ECO, não é compulsória. Para maiores informações em relação a bolsa acesse a <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/BOLSA.html" target="_blank">página de regras para concessão de bolsas</a>.</p>
+  
+A concessão de bolsa, no ECO, não é compulsória. Para maiores informações em relação a bolsa acesse a <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/BOLSA.html" target="_blank">página de regras para concessão de bolsas</a>.<br><br>
 
-<p align="justify">A avaliação e finalização do estágio tipo ECO será realizada pelo professor líder da disciplina de estágio (FEA0061 - ESTÁGIO SUPERVISIONADO). Além disso o discente deverá cumprir as 160 hr na realização do estágio no período da disciplina, produzir relatórios parciais/finais do estágio e realizar uma defesa do estágio perante há uma banca de avaliadores. Lembre-se que datas de entrega e formato da apresentação dos documentos podem ser alterado conforme o professor vigente da disciplina FEA0061.</p>
+  
+A avaliação e finalização do estágio tipo ECO será realizada pelo professor líder da disciplina de estágio (FEA0061 - ESTÁGIO SUPERVISIONADO). Além disso o discente deverá cumprir as 160 hr na realização do estágio no período da disciplina, produzir relatórios parciais/finais do estágio e realizar uma defesa do estágio perante há uma banca de avaliadores. Lembre-se que datas de entrega e formato da apresentação dos documentos podem ser alterado conforme o professor vigente da disciplina FEA0061.</p>
+
+### Avaliação do Estágio Curricular Obrigatório (ECO)
+
+<p align="justify">A avaliação do ECO no curso de Engenharia Civil é realizada por meio de uma apresentação em formato de banca e a entrega de um relatório final: Ambos os modelos constam a seguir:</p>
+
+<ol>
+<li><a href="https://docs.google.com/document/d/10cWUzFzAe3vbGXtWviOtuRYJvH7NQv_DmthMYs8OQU4/edit?usp=sharing" target="_blank">Modelo de relatório final do estágio</a>;</li> 
+<li><a href="https://docs.google.com/presentation/d/130cTv4McoylRHSWXSO98lbOzGyGISXeN/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Modelo de apresentação final do estágio</a>;</li> 
+</ol>
+
