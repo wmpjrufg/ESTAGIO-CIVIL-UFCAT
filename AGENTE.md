@@ -20,6 +20,6 @@ Caso opte por fazer essa intermediação via UFCAT reuna os documentos necessár
 target="_blank">página de convênios do estágio</a>. Você também pode consultar os convênios que já estão celebrados pela nossa universidade no <a href="https://estagio.catalao.ufg.br/p/40059-convenios" target="_blank">link</a>.<br><br>
 
   
-Caso a empresa e/ou aluno desejem realizar o processo via outros agentes de integração isso é perfeitamente possível. como dito anteriormente verifique as empresas habilitadas para gerar o contrato de estágio (TCE).<br><br>
+Caso a empresa e/ou aluno desejem realizar o processo via outros agentes de integração isso é perfeitamente possível. Como dito anteriormente verifique as empresas habilitadas para gerar o contrato de estágio (TCE).<br><br>
 
-<p align="justify">Realizado o convênio o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Maiores detalhes sobre os relatórios e termos que devem ser assinados encontram-se nas páginas de cada um dos estágios.</p>
+Realizado o convênio o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Maiores detalhes sobre os relatórios e termos que devem ser assinados encontram-se nas páginas de cada um dos estágios.</p>
