@@ -1,43 +1,22 @@
 ## Estágio Curricular Não Obrigatório (ECNO)
 
 <p align="justify">Nesta página você discente terá acesso as informações do Estágio Curricular Não Obrigatório (ECNO) da Universidade Federal de Catalão (UFCAT) relativo ao curso de Engenharia Civil.</p>
+  
+  
+Para você que ainda não conhece o processo do ECNO, vamos lá:  
+  
+  
+<p align="justify">O discente que irá fazer o ECNO não precisará estar matriculado na disciplina do curso <b>FEA0061 - ESTÁGIO SUPERVISIONADO</b>. Basta ser aluno regular do curso de engenharia civil e estar cursando do terceiro período em diante (item 7.1 do PPC do curso).<br><br>
 
-Para você que ainda não conhece o processo do ECNO, vamos lá:
 
-<p align="justify">O discente que irá fazer o ECNO não precisará estar matriculado na disciplina do curso <b>FEA0061 - ESTÁGIO SUPERVISIONADO - TA</b>. Basta ser aluno regular do curso de engenharia civil e estar cursando do terceiro período em diante (item 7.1 do PPC do curso).<br>
-<br>
+Para estabelecer o vínculo o discente deverá ter um intermediário que é o agente integrador. O agente integrador é o meio pelo qual os três pilares do estágio são conectados. Para consultar maiores detalhes sobre esta integração acesse o <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/AGENTE.html" target="_blank"><i>link</i></a>.<br><br>
 
-  Para estabelecer o vínculo o discente deverá ter um intermediário que é o agente integrador. O agente integrador é o meio pelo qual os três pilares do estágio são conectados: Empresa, Instituição de Ensino e Discente. Para maiores informações clique no <a href="https://www.cieepr.org.br/o-que-e-um-agente-de-integracao-e-qual-o-seu-papel-junto-as-empresas-e-estudantes/#:~:text=Visando%20realizar%20a%20ponte%20entre,as%20empresas%20quanto%20para%20os"
-target="_blank"><i>link</i></a> para entender um pouco sobre o agente integrador.<br>
-<br>
+  
+Realizado o convênio o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Para dar andamento a esse documento, tenha os seguintes documentos devidamente assinados:</p>
 
-  A nossa instituição de ensino (UFCAT) também atua como agente integrador, basta solicitar o convênio com a equipe de gestão administrativa da UFCAT.<br>
-<br>
-
-  Caso opte por fazer essa intermediação via UFCAT reuna os documentos necessários que estão descritos na <a href="https://estagio.catalao.ufg.br/p/37376-documentacao"
-target="_blank">página de convênios do estágio</a>. Você também pode consultar os convênios que já estão celebrados pela nossa universidade (<a href="https://www.convenios.ufg.br/p/2454-instrumentos-celebrados-pela-ufg"
-target="_blank">UFG</a>, <a href="https://estagio.catalao.ufg.br"
-target="_blank">UFCAT (Menu -> Convênios -> Empresas Conveniadas)</a>).<br> 
-<br>
-
-  Após a organização dos documentos encaminhe um correrio eletrônico (<i><b>gestao.catalao@ufg.br</b></i>) para o setor de convênios solicitando tal cadastrado. Coloque em cópia, na mensagem, os seguintes contatos: <i><b>cge.prograd@ufcat.edu.br</b></i>, <i><b>estagio.deciv.ufcat@gmail.com</b></i>.<br>
-<br>
-
-  Em caso de dúvidas procure a gestão de convênios pelo e-mail informado eles irão esclarecer as dúvidas documentais relativas a esse covênio.<br>  
-<br>
-
-  Caso a empresa ou aluno deseje realizar o processo via outros agentes de integração isso e perfeitamente possível, são empresas habilitadas em atender a nossa universidade:<br></p>
 
 <ol>
-<li><a href="https://ielgoias.com.br/iel/home" target="_blank">Instituo Euvaldo Lodi (IEL)</a></li> 
-<li><a href="https://portal.ciee.org.br" target="_blank">Centro de Integração Empresa Escola (CIEE)</a></li> 
-<li><a href="https://www.nube.com.br" target="_blank">Núcleo Brasileiro de Estágios (NUBE)</a></li> 
-</ol>
-
-<p align="justify">Realizado o convênio o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Para dar andamento a esse documento, tenha os seguintes documentos devidamente assinados:</p>
-
-<ol>
-<li>Comprovante de matrícula no curso;</li> 
+<li>Comprovante de matrícula no curso retirado do SIGAA (único doc. que não precisa de assinatura);</li> 
 <li><a href="https://forms.gle/sxrFjFXJQ9gcGe4V7" target="_blank">Declaração de aceite do profissional supervisor</a>;</li> 
 <li><a href="https://forms.gle/z5Gwr3tXKHMxFMAk9" target="_blank">Declaração de aceite do professor orientador</a>;</li> 
 <li><a href="https://drive.google.com/file/d/1LkPaj0A1gw1UuNPIF3ROMXQ6vmFMymru/view?usp=sharing" target="_blank">Plano de atividades do estágio</a>;</li> 
@@ -45,12 +24,26 @@ target="_blank">UFCAT (Menu -> Convênios -> Empresas Conveniadas)</a>).<br>
 <li><a href="https://drive.google.com/file/d/1yRFCCd6M0YdQfO0wzkkK6xcDfIzAcuIE/view?usp=sharing" target="_blank"><i>Checklist</i> do ECNO preenchido</a>;</li> 
 </ol>
 
-<p align="justify">É muito importante que antes da assinatura do estágio o coordenador do estágio tenha ciência do seu plano de trabalho. Portanto recolhidas todas as assinaturas você poderá elaborar seu contrato de estágio ou TCE. Caso seu estágio esteja vinculado pela UFCAT o contrato de estágio deve ser elaborado pelo próprio discente. Para obtenção do modelo solitice ao pessoal do convênio de estágio ou consulte a <a href="https://estagio.catalao.ufg.br" target="_blank">página do estágio</a> na aba formulários. Lembre-se de ficar atento a sua modalidade de estágio. Caso o esteja vinculado a outro agente integrador silicite a este a elaboração do TCE.</p>
+<p align="justify">É muito importante que antes da assinatura do contrato de estágio o coordenador do estágio tenha ciência do seu plano de trabalho. Contratos enviados sem o plano de trabalho não serão assinados pela coordenação de estágio.<br><br>
+  
+  
+Portanto recolhida todas as assinaturas você poderá elaborar seu contrato de estágio (TCE). Caso seu estágio esteja vinculado pelo agente integrador Universidade o contrato de estágio deve ser elaborado pelo próprio discente. Para obtenção do modelo solitice ao pessoal do convênio de estágio ou consulte a <a href="https://estagio.catalao.ufg.br" target="_blank">página do estágio</a> na aba formulários. Lembre-se de ficar atento a sua modalidade de estágio. Caso o esteja vinculado a outro agente integrador solicite a este a elaboração do TCE.<br><br>
+  
+ 
+Não se esqueça de recolher a assinatura em todos os documentos para que seu estágio tenha validade. Além disso é muito importante que você aluno esteja segurado. Consulte o seu contratante para obter o número de apólice do seu seguro. Mesmo que o TCE seja elaborado pela Universidade a obrigação da apólice de seguro é da empresa contratante no caso do ECNO.<br><br>
+    
+A concessão de bolsa, no ECNO, é compulsória. Para maiores informações em relação a bolsa acesse a <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/BOLSA.html" target="_blank">página de regras para concessão de bolsas</a>.<br><br>
 
-<p align="justify">Não se esqueça de recolher a assinatura em todos os documentos para que seu estágio tenha validade. Além disso é muito importante que você aluno esteja segurado. Consulte seu contrato para checar se o número de apólice está explicita no texto. No caso de um TCE elaborado pela UFCAT esse número de apólice é dada pelo documento do <a href="https://estagio.catalao.ufg.br/p/36446-apolice" target="_blank"><i>link</i></a></p>
+Após recolhimento de todas as assinaturas nos documentos é obrigatório a partir de 2021 que o ECNO seja registrado via SEI. Para maiores informações acesse o <a href="https://files.cercomp.ufg.br/weby/up/610/o/Tutorial_de_Peticionamento_no_SEI_-_ECNO_%281%29.pdf" target="_blank">tutorial</a> de como cadastrar o ECNO no SEI. Sempre informe o coordenador de estágio ao fim desse cadastro e preencha a <a href="https://docs.google.com/spreadsheets/d/17Nq7fkfTwIgdgtfkJ63HHQXtuZ1mioS1x6uh-9NjS1o/edit?usp=sharing" target="_blank">planilha de controle de estagiários do ECNO</a>. Não inicie o processo no SEI sem ter todos os documentos assinados. Qualquer inserção de um processo no SEI sem a documentação validada o processo é automaticamente é suspenso pela Coordenação Geral de Estágio (CGE). No processo SEI é obrigatório anexar os seguintes documentos assinados:<br><br></p>
+  
+<ol>
+<li>Plano de Atividades (PA):  assinado pelo estudante, coordenador de estágio do curso, supervisor concedente e professor orientador do estágio;</li> 
+<li>ermo de Compromisso (TCE):  assinado pelo estudante, responsável legal pela concedente e coordenador de estágio do curso.</li> 
+</ol>
 
-<p align="justify">A concessão de bolsa, no ECNO, é compulsória. Para maiores informações em relação a bolsa acesse a <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/BOLSA.html" target="_blank">página de regras para concessão de bolsas</a>.</p>
 
-<p align="justify">Após recolhimento de todas as assinaturas nos documentos é obrigatório a partir de 2021 que o ECNO seja registrado via SEI. Para maiores informações acesse o <a href="https://files.cercomp.ufg.br/weby/up/610/o/Tutorial_de_Peticionamento_no_SEI_-_ECNO_%281%29.pdf" target="_blank">tutorial</a> de como cadastrar o ECNO no SEI. Sempre informe o coordenador de estágio ao fim desse cadastro para que ele realize o registro do n° de processo SEI (Informe pelo e-mail: estagio.deciv.ufcat@gmail.com).</p>
+### Avaliação do Estágio Curricular Não Obrigatório (ECNO)
 
-<p align="justify">A avaliação e finalização do estágio tipo ECNO será realizada pelo coordenador de estágio do curso de Engenharia Civil. O discente não tem carga horária mínima ou máxima para realização do estágio porém este deverá produzir um relatório semestral informando ao coordenador o andamento deste estágio. O mesmo não terá uma banca de avaliação ao final.</p>
+<p align="justify">A avaliação e finalização do estágio tipo ECNO é realizada automaticamente no encerramento do contrato. O discente não tem carga horária mínima ou máxima para realização do estágio porém este deverá produzir relatórios semestrais parciais/finais. O modelo deste relatório parcial/final pode ser acessado pelo <a href="https://docs.google.com/document/d/1_JJomR59rD115Pd2ZM8Es57o_pQY_ZuyvjBeY2KaxSI/edit?usp=sharing" target="_blank">link</a>.
+
+É recomendável que o relatório semestral de estágio não obrigatório seja elaborado com o decorrer do estágio pois como se trata de um periódo muito extenso, portanto algumas informações podem se perder nesta caminhada.<br><br></p>
