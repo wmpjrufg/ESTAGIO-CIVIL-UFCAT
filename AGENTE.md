@@ -17,7 +17,7 @@ A nossa instituição de ensino (UFCAT) também atua como agente integrador, bas
   
 
 Caso opte por fazer essa intermediação via UFCAT reuna os documentos necessários que estão descritos na <a href="https://estagio.catalao.ufg.br/p/37376-documentacao"
-target="_blank">página de convênios do estágio</a>. Você também pode consultar os convênios que já estão celebrados pela nossa universidade no <a href="https://estagio.catalao.ufg.br/p/40059-convenios" target="_blank">link</a>.<br><br>
+target="_blank">página de convênios do estágio</a>. Você também pode consultar os convênios que já estão celebrados pela nossa universidade no <a href="https://estagio.catalao.ufg.br/p/40059-convenios" target="_blank"><i>link</i></a>.<br><br>
 
   
 Caso a empresa e/ou aluno desejem realizar o processo via outros agentes de integração isso é perfeitamente possível. Como dito anteriormente verifique as empresas habilitadas para gerar o contrato de estágio (TCE).<br><br>
