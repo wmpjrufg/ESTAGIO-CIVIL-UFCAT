@@ -41,6 +41,7 @@ Após recolhimento de todas as assinaturas nos documentos é obrigatório a part
 <li>Termo de Compromisso (TCE):  assinado pelo estudante, responsável legal pela concedente e coordenador de estágio do curso.</li> 
 </ol>
 
+Após o recolhimento das assinaturas iniciais não se esqueça de preencher o nosso controle interno de estágio que é realizado através do seguinte <a href="https://forms.gle/WD4kUgcxD1LBKzEX9" target="_blank">Fomrulário</a>.<br><br>
 
 ### Avaliação do Estágio Curricular Não Obrigatório (ECNO)
 
