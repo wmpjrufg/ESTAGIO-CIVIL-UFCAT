@@ -33,11 +33,14 @@ Portanto recolhida todas as assinaturas você poderá elaborar seu contrato de e
 
 Não se esqueça de recolher a assinatura em todos os documentos para que seu estágio tenha validade. Além disso é muito importante que você aluno esteja segurado. Consulte seu contrato para checar se o número de apólice está explicita no texto. No caso de um TCE elaborado pela Universidade esse número de apólice é dada pelo documento do <a href="https://estagio.catalao.ufg.br/p/36446-apolice" target="_blank"><i>link</i></a>.<br><br>
 
+Após o recolhimento das assinaturas iniciais não se esqueça de preencher o nosso controle interno de estágio que é realizado através do seguinte <a href="https://forms.gle/WD4kUgcxD1LBKzEX9" target="_blank">Fomrulário</a>.<br><br>
+  
   
 A concessão de bolsa, no ECO, não é compulsória. Para maiores informações em relação a bolsa acesse a <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/BOLSA.html" target="_blank">página de regras para concessão de bolsas</a>.<br><br>
 
   
 A avaliação e finalização do estágio tipo ECO será realizada pelo professor líder da disciplina de estágio (FEA0061 - ESTÁGIO SUPERVISIONADO). Além disso o discente deverá cumprir as 160 hr na realização do estágio no período da disciplina, produzir relatórios parciais/finais do estágio e realizar uma defesa do estágio perante há uma banca de avaliadores. Lembre-se que datas de entrega e formato da apresentação dos documentos podem ser alterado conforme o professor vigente da disciplina FEA0061.</p>
+
 
 ### Avaliação do Estágio Curricular Obrigatório (ECO)
 
