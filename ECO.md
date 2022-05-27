@@ -12,17 +12,15 @@ Para você que ainda não conhece o processo do ECO, vamos lá:
 Para estabelecer o vínculo o discente deverá ter um intermediário que é o agente integrador. O agente integrador é o meio pelo qual os três pilares do estágio são conectados. Para consultar maiores detalhes sobre esta integração acesse o <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/AGENTE.html" target="_blank"><i>link</i></a>.<br><br>
 
   
-Realizado o convênio o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Para dar andamento a esse documento, tenha os seguintes documentos devidamente assinados:</p>
+Realizado o convênio o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Para dar andamento a este documento, tenha os seguintes documentos devidamente assinados:</p>
 
 
 <ol>
-<li><a href="https://drive.google.com/file/d/1262fw5ZL3l6lrqzSZjFmmg1D7oqZRexZ/view?usp=sharing" target="_blank">Termo de conhecimento e concordância com a realização do ECO (Documento devido a Pandemia da COVID 19)</a>;</li> 
-<li><a href="https://forms.gle/sxrFjFXJQ9gcGe4V7" target="_blank">Declaração de aceite do profissional supervisor</a>;</li> 
-<li><a href="https://forms.gle/z5Gwr3tXKHMxFMAk9" target="_blank">Declaração de aceite do professor orientador</a>;</li> 
-<li><a href="https://drive.google.com/file/d/1LkPaj0A1gw1UuNPIF3ROMXQ6vmFMymru/view?usp=sharing" target="_blank">Plano de atividades do estágio</a>;</li> 
-<li>Fazer o <i>download</i> do <a href="https://drive.google.com/file/d/1KjZkCAUxXtfnlzb_hy_1bY-zN90DRREc/view?usp=sharing" target="_blank">Quadro de Horários </a>preencher com a demarcação das horas de estágio e aulas e assinar o PDF;</li> 
-<li><a href="https://drive.google.com/file/d/1-neCxJjrAF4wy7IuhCWZ0HZNwD3rPK5W/view?usp=sharing" target="_blank"><i>Checklist</i> do ECO preenchido</a>;</li> 
-</ol>
+<li>Fazer o <i>download</i> do <a href="https://docs.google.com/spreadsheets/d/121shERK5MbxEkZKb7eMMtmGPn3cC9Na8/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Quadro de Horários </a>preencher com a demarcação das horas de estágio e aulas e assinar o PDF;</li> 
+<li><a href="https://docs.google.com/document/d/1W002U5rXpAHLoxT52AQuPwNf9B675RRR/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Termo de conhecimento e concordância com a realização do ECO (Documento devido a Pandemia da COVID 19)</a>;</li> 
+<li><a href="https://forms.gle/Ws9k36RJdZ3kb7YFA" target="_blank">Declaração de aceite do profissional supervisor</a>;</li> 
+<li><a href="https://forms.gle/WXt7J89TXUEvgLj66" target="_blank">Declaração de aceite do professor orientador</a>;</li> 
+<li><a href="https://docs.google.com/document/d/1YJxzuXPxpWdWLeYs9aTZt-a4g7Z7W6OW/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Plano de atividades do estágio</a>;</li> 
 
 
 <p align="justify">É muito importante que antes da assinatura do contrato de estágio o coordenador do estágio tenha ciência do seu plano de trabalho. Contratos enviados sem o plano de trabalho não serão assinados pela coordenação de estágio.<br><br>
@@ -33,7 +31,7 @@ Portanto recolhida todas as assinaturas você poderá elaborar seu contrato de e
 
 Não se esqueça de recolher a assinatura em todos os documentos para que seu estágio tenha validade. Além disso é muito importante que você aluno esteja segurado. Consulte seu contrato para checar se o número de apólice está explicita no texto. No caso de um TCE elaborado pela Universidade esse número de apólice é dada pelo documento do <a href="https://estagio.catalao.ufg.br/p/36446-apolice" target="_blank"><i>link</i></a>.<br><br>
 
-Após o recolhimento das assinaturas iniciais não se esqueça de preencher o nosso controle interno de estágio que é realizado através do seguinte <a href="https://forms.gle/WD4kUgcxD1LBKzEX9" target="_blank">Fomrulário</a>.<br><br>
+Após o recolhimento das assinaturas iniciais não se esqueça de preencher o nosso controle interno de estágio que é realizado através do seguinte <a href="https://forms.gle/EpNLhARsHv7NhSsv7" target="_blank">Fomrulário de <i>checklist</i></a>.<br><br>
   
   
 A concessão de bolsa, no ECO, não é compulsória. Para maiores informações em relação a bolsa acesse a <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/BOLSA.html" target="_blank">página de regras para concessão de bolsas</a>.<br><br>
@@ -52,6 +50,11 @@ A avaliação e finalização do estágio tipo ECO será realizada pelo professo
 <li><a href="https://docs.google.com/presentation/d/130cTv4McoylRHSWXSO98lbOzGyGISXeN/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Modelo de apresentação final do estágio</a>.</li> 
 </ol>
 
+  
+<p align="justify">Antes da apresentação é necessário que você discente preencha a ata de defesa que será disponibilizada via SEI com suas informações. Essa ata deverá ser colocada na pasta criada pelo discente. O modelo está disponível no relatório final e também no seguinte <a href="https://docs.google.com/document/d/126qodLEHnrI4TxjFeHwlKIUKUZZ8gyAj/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank"><i>link</i></a>.</p>
+
+
 <p align="justify">É recomendável que o relatório final de estágio obrigatório seja elaborado com o decorrer do estágio pois é necessária a assinatura de relatórios mensais.<br><br>
 
+  
 Sobre a apresentação do estágio a mesma deverá ter a duração máxima de 5 minutos com a defesa do seu estágio. Ao final a banca atribuirá uma nota a sua defesa. Está nota será efetiva por meio do preenchimento de uma ata que posteriormente é enviada ao discente permitindo assim que o mesmo anexe esta no relatório final de estágio.</p>
