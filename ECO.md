@@ -21,7 +21,7 @@ Realizado o convênio o discente deverá dar andamento aos documentos para elabo
 <li><a href="https://forms.gle/Ws9k36RJdZ3kb7YFA" target="_blank">Declaração de aceite do profissional supervisor</a>;</li> 
 <li><a href="https://forms.gle/WXt7J89TXUEvgLj66" target="_blank">Declaração de aceite do professor orientador</a>;</li> 
 <li><a href="https://docs.google.com/document/d/1YJxzuXPxpWdWLeYs9aTZt-a4g7Z7W6OW/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Plano de atividades do estágio</a>;</li> 
-<ol>
+</ol>
   
 <br><br>
   
