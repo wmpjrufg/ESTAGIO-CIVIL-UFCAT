@@ -42,7 +42,7 @@ A concessão de bolsa, no ECO, não é compulsória. Para maiores informações 
 A avaliação e finalização do estágio tipo ECO será realizada pelo professor líder da disciplina de estágio (FEA0061 - ESTÁGIO SUPERVISIONADO). Além disso o discente deverá cumprir as 160 hr na realização do estágio no período da disciplina, produzir relatórios parciais/finais do estágio e realizar uma defesa do estágio perante há uma banca de avaliadores. Lembre-se que datas de entrega e formato da apresentação dos documentos podem ser alterado conforme o professor vigente da disciplina FEA0061.</p>
 
 
-### Avaliação do Estágio Curricular Obrigatório (ECO)
+<h2>Avaliação do Estágio Curricular Obrigatório (ECO)</h2>
 
 <p align="justify">A avaliação do ECO no curso de Engenharia Civil é realizada por meio de uma apresentação em formato de banca e a entrega de um relatório final. Ambos os modelos constam a seguir:</p>
 
