@@ -17,6 +17,6 @@
 
 <p align="justify"><b>É obrigatório a condição de ter um professor orientador de estágio?</b><br><br>
 
-<i>Sim. E este deverá ser um professor do curso de Engenharia Civil.</i><br><br>
+<i>Sim e este deverá ser um professor do curso de Engenharia Civil.</i><br><br>
 
 </p>
