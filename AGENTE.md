@@ -21,5 +21,7 @@ target="_blank">página de convênios do estágio</a>. Você também pode consul
 
   
 Caso a empresa e/ou aluno desejem realizar o processo via outros agentes de integração isso é perfeitamente possível. Como dito anteriormente verifique as empresas habilitadas para gerar o contrato de estágio (TCE).<br><br>
+  
+Caso você seja um aluno que deseja aproveitar algum estágio já cadastrado para transformar em ECO. Favor elaborar um termo aditivio de contrato. Para maiores informações consulte a CGE ou o coordenador de estágio do curso.<br><br>
 
 Realizado o convênio o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Maiores detalhes sobre os relatórios e termos que devem ser assinados encontram-se nas páginas de cada um dos estágios.</p>
