@@ -46,7 +46,7 @@ Após o recolhimento das assinaturas iniciais não se esqueça de preencher o no
 
 <p align="justify">A avaliação e finalização do estágio tipo ECNO é realizada automaticamente no encerramento do contrato. O discente não tem carga horária mínima ou máxima para realização do estágio porém este deverá produzir relatórios semestrais parciais/finais. O modelo destes relatórios podem ser encontrados no <a href="https://estagio.catalao.ufg.br" target="_blank">site da Coordenação Geral de Estágio (CGE)</a>. Acesse o <b>Menu</b> e vá para aba <b>Formulários</b>. Nesta aba você poderá consultar a sua modalidade de estágio e ter acesso ao modelo de relatório.<br><br>
   
-Não se esqueça de que ao produzir este relatório e assinar, você deverá anexar o mesmo no seu processo SEI para que o estágio tenha validade junto ao curso de Engenharia Civil.<br><br>
+Não se esqueça de que ao produzir este relatório e assinar você deverá anexar o mesmo no seu processo SEI para que o estágio tenha validade junto ao curso de Engenharia Civil.<br><br>
  
 Em caso de desligamento do estágio deverá ser preenchido o termo de desligamento do estágio. O modelo encontra-se no mesmo local do relatório de estágio. Após o preenchimento e devidas assinaturas anexe o mesmo no seu processo SEI.<br><br>
   
