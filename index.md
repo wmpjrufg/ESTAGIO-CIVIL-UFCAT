@@ -10,6 +10,7 @@ Selecione o tipo de informações que você deseja?
 4. [Bolsas para estágio](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/BOLSA.html);
 5. [Resolução geral de estágio da Universidade](https://files.cercomp.ufg.br/weby/up/579/o/Resolucao_CEPEC_2017_1557R.pdf);
 6. [PPC do curso de Engenharia Civil item 7 - Política de Estágio](https://files.cercomp.ufg.br/weby/up/620/o/ppc.pdf);
+7. [Perguntas frequentes](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/PERGUNTAS.html);
 
 Coordenação: [Dr. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)  
 Vice-Coordenação: [Dra. Eliane Aparecida Justino](http://lattes.cnpq.br/6366855147494701)  
