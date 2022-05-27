@@ -14,3 +14,9 @@
 <i>Sim, desde que seja feito um termo aditivo a este contrato informando o período em que este estágio foi convertido em ECO. Lembrar que o termo aditivo deve ser assinado pelo coordenador de estágio do curso.</i><br><br>
 
 </p>
+
+<p align="justify"><b>É obrigatório a condição de ter um professor orientador de estágio?</b><br><br>
+
+<i>Sim. E este deverá ser um professor do curso de Engenharia Civil.</i><br><br>
+
+</p>
