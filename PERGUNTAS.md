@@ -11,6 +11,6 @@
 
 <p align="justify"><b>Possuo Estágio Curricular Não Obrigatório (ECNO). Posso aproveitar este estágio na disciplina de Estágio Curricular Obrigatótio (ECO)?</b><br><br>
 
-<i>Sim, desde que seja feito um termo aditivo a este contrato informando o período em que este estágio foi convertido em ECO.</i><br><br>
+<i>Sim, desde que seja feito um termo aditivo a este contrato informando o período em que este estágio foi convertido em ECO. Lembrar que o termo aditivo deve ser assinado pelo coordenador de estágio do curso.</i><br><br>
 
 </p>
