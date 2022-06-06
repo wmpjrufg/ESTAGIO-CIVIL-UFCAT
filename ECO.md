@@ -31,7 +31,7 @@ Portanto recolhida todas as assinaturas você poderá elaborar seu contrato de e
 
 Não se esqueça de recolher a assinatura em todos os documentos para que seu estágio tenha validade. Além disso é muito importante que você aluno esteja segurado. Consulte seu contrato para checar se o número de apólice está explicita no texto. No caso de um TCE elaborado pela Universidade esse número de apólice é dada pelo documento do <a href="https://estagio.catalao.ufg.br/p/36446-apolice" target="_blank"><i>link</i></a>.<br><br>
 
-Após o recolhimento das assinaturas iniciais não se esqueça de preencher o nosso controle interno de estágio que é realizado através do seguinte <a href="https://forms.gle/EpNLhARsHv7NhSsv7" target="_blank">Fomrulário de <i>checklist</i></a>.<br><br>
+Após o recolhimento das assinaturas iniciais não se esqueça de preencher o nosso controle interno de estágio que é realizado através do seguinte <a href="https://forms.gle/EpNLhARsHv7NhSsv7" target="_blank">Formulário de <i>checklist</i></a>.<br><br>
   
   
 A concessão de bolsa, no ECO, não é compulsória. Para maiores informações em relação a bolsa acesse a <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/BOLSA.html" target="_blank">página de regras para concessão de bolsas</a>.<br><br>
