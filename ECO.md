@@ -17,7 +17,6 @@ Realizado o convênio o discente deverá dar andamento aos documentos para elabo
 
 <ol>
 <li>Fazer o <i>download</i> do <a href="https://docs.google.com/spreadsheets/d/121shERK5MbxEkZKb7eMMtmGPn3cC9Na8/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Quadro de Horários </a>preencher com a demarcação das horas de estágio e aulas e assinar o PDF;</li> 
-<li><a href="https://docs.google.com/document/d/1W002U5rXpAHLoxT52AQuPwNf9B675RRR/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Termo de conhecimento e concordância com a realização do ECO (Documento devido a Pandemia da COVID 19)</a>;</li> 
 <li><a href="https://forms.gle/Ws9k36RJdZ3kb7YFA" target="_blank">Declaração de aceite do profissional supervisor</a>;</li> 
 <li><a href="https://forms.gle/WXt7J89TXUEvgLj66" target="_blank">Declaração de aceite do professor orientador</a>;</li> 
 <li><a href="https://docs.google.com/document/d/1YJxzuXPxpWdWLeYs9aTZt-a4g7Z7W6OW/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Plano de atividades do estágio</a>;</li> 
