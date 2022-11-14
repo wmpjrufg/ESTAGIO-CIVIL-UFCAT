@@ -17,7 +17,7 @@ Realizado o convênio o discente deverá dar andamento aos documentos para elabo
   <li><a href="https://forms.gle/dgQED4teKdPpFhnD6" target="_blank">Plano de atividades do estágio</a>;</li> 
 </ol>
 
-<p align="justify">Os documentos acima seguem padrões de assinatura veja:</p><br>  
+<p align="justify">Os documentos acima seguem padrões de assinatura veja:</p> 
     
 #### Quadro de Horários  
   
