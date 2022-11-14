@@ -1,19 +1,14 @@
 ## Estágio Curricular Obrigatório (ECO)
 
-<p align="justify">Nesta página você discente terá acesso as informações do Estágio Curricular Obrigatório (ECO) da Universidade Federal de Catalão (UFCAT) relativo ao curso de Engenharia Civil.</p>
+<p align="justify">Nesta página você discente terá acesso as informações do Estágio Curricular Obrigatório (ECO) da Universidade Federal de Catalão (UFCAT) relativo ao curso de Engenharia Civil.<br><br>
 
-
-Para você que ainda não conhece o processo do ECO, vamos lá:
-
+Para você que ainda não conhece o processo do ECO, vamos lá:</p><br><br>
 
 <p align="justify">O discente que irá fazer o ECO precisará estar matriculado na disciplina do curso <b>FEA0061 - ESTÁGIO SUPERVISIONADO</b>. Uma vez matriculado nessa disciplina o discente poderá estabelecer os vínculos com empresas ou profissionais para atuar no mercado de trabalho.<br><br>
-
   
 Para estabelecer o vínculo o discente deverá ter um intermediário que é o agente integrador. O agente integrador é o meio pelo qual os três pilares do estágio são conectados. Para consultar maiores detalhes sobre esta integração acesse o <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/AGENTE.html" target="_blank"><i>link</i></a>.<br><br>
-
   
 Realizado o convênio o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Para dar andamento a este documento, tenha os seguintes documentos:</p>
-
 
 <ol>
   <li>Fazer o <i>download</i> do <a href="https://docs.google.com/spreadsheets/d/121shERK5MbxEkZKb7eMMtmGPn3cC9Na8/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Quadro de Horários </a>preencher com a demarcação das horas de estágio e aulas e assinar o PDF;</li> 
@@ -22,7 +17,7 @@ Realizado o convênio o discente deverá dar andamento aos documentos para elabo
   <li><a href="https://forms.gle/dgQED4teKdPpFhnD6" target="_blank">Plano de atividades do estágio</a>;</li> 
 </ol>
 
-<p align="justify">Os documentos acima seguem padrões de assinatura veja:<br><br>  
+<p align="justify">Os documentos acima seguem padrões de assinatura veja:<br><br></p>  
     
 ##### Quadro de Horários  
   
