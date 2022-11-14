@@ -12,7 +12,7 @@ Para você que ainda não conhece o processo do ECO, vamos lá:
 Para estabelecer o vínculo o discente deverá ter um intermediário que é o agente integrador. O agente integrador é o meio pelo qual os três pilares do estágio são conectados. Para consultar maiores detalhes sobre esta integração acesse o <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/AGENTE.html" target="_blank"><i>link</i></a>.<br><br>
 
   
-Realizado o convênio o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Para dar andamento a este documento, tenha os seguintes documentos devidamente assinados:</p>
+Realizado o convênio o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Para dar andamento a este documento, tenha os seguintes documentos:</p>
 
 
 <ol>
@@ -21,7 +21,11 @@ Realizado o convênio o discente deverá dar andamento aos documentos para elabo
 <li><a href="https://forms.gle/WXt7J89TXUEvgLj66" target="_blank">Declaração de aceite do professor orientador</a>;</li> 
 <li><a href="https://docs.google.com/document/d/1YJxzuXPxpWdWLeYs9aTZt-a4g7Z7W6OW/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Plano de atividades do estágio</a>;</li> 
 </ol>
-  
+
+> [!NOTE]  
+> Information the user should notice even if skimming.
+
+<p align="justify">Dos documentos acima seguem os padrões de assinatura:<br><br>
   
 <p align="justify">É muito importante que antes da assinatura do contrato de estágio o coordenador do estágio tenha ciência do seu plano de trabalho. Contratos enviados sem o plano de trabalho não serão assinados pela coordenação de estágio.<br><br>
   
