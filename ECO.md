@@ -24,7 +24,7 @@ Realizado o convênio o discente deverá dar andamento aos documentos para elabo
 - [x] Discente  
 - [ ] Professor Orientador  
 - [ ] Supervisor  
-- [x] Coordenador de estágio  
+- [ ] Coordenador de estágio  
   
 #### Declaração de aceite do profissional supervisor  
   
