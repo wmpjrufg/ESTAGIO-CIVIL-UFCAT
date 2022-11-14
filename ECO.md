@@ -16,16 +16,41 @@ Realizado o convênio o discente deverá dar andamento aos documentos para elabo
 
 
 <ol>
-<li>Fazer o <i>download</i> do <a href="https://docs.google.com/spreadsheets/d/121shERK5MbxEkZKb7eMMtmGPn3cC9Na8/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Quadro de Horários </a>preencher com a demarcação das horas de estágio e aulas e assinar o PDF;</li> 
-<li><a href="https://forms.gle/Ws9k36RJdZ3kb7YFA" target="_blank">Declaração de aceite do profissional supervisor</a>;</li> 
-<li><a href="https://forms.gle/WXt7J89TXUEvgLj66" target="_blank">Declaração de aceite do professor orientador</a>;</li> 
-<li><a href="https://docs.google.com/document/d/1YJxzuXPxpWdWLeYs9aTZt-a4g7Z7W6OW/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Plano de atividades do estágio</a>;</li> 
+  <li>Fazer o <i>download</i> do <a href="https://docs.google.com/spreadsheets/d/121shERK5MbxEkZKb7eMMtmGPn3cC9Na8/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Quadro de Horários </a>preencher com a demarcação das horas de estágio e aulas e assinar o PDF;</li> 
+  <li><a href="https://forms.gle/Ws9k36RJdZ3kb7YFA" target="_blank">Declaração de aceite do profissional supervisor</a>;</li> 
+  <li><a href="https://forms.gle/WXt7J89TXUEvgLj66" target="_blank">Declaração de aceite do professor orientador</a>;</li> 
+  <li><a href="https://forms.gle/dgQED4teKdPpFhnD6" target="_blank">Plano de atividades do estágio</a>;</li> 
 </ol>
 
-> [!NOTE]  
-> Information the user should notice even if skimming.
+<p align="justify">Os documentos acima seguem padrões de assinatura veja:<br>
+  
+##### Quadro de Horários
 
-<p align="justify">Dos documentos acima seguem os padrões de assinatura:<br><br>
+- [x] Discente
+- [ ] Professor Orientador
+- [ ] Supervisor
+- [x] Coordenador de estágio
+
+##### Declaração de aceite do profissional supervisor
+
+- [x] Discente
+- [ ] Professor Orientador
+- [x] Supervisor
+- [ ] Coordenador de estágio
+
+##### Declaração de aceite do professor supervisor
+
+- [x] Discente
+- [x] Professor Orientador
+- [ ] Supervisor
+- [ ] Coordenador de estágio
+
+##### Plano de atividades do estágio
+
+- [x] Discente
+- [x] Professor Orientador
+- [x] Supervisor
+- [x] Coordenador de estágio
   
 <p align="justify">É muito importante que antes da assinatura do contrato de estágio o coordenador do estágio tenha ciência do seu plano de trabalho. Contratos enviados sem o plano de trabalho não serão assinados pela coordenação de estágio.<br><br>
   
@@ -34,9 +59,7 @@ Portanto recolhida todas as assinaturas você poderá elaborar seu contrato de e
 
 
 Não se esqueça de recolher a assinatura em todos os documentos para que seu estágio tenha validade. Além disso é muito importante que você aluno esteja segurado. Consulte seu contrato para checar se o número de apólice está explicita no texto. No caso de um TCE elaborado pela Universidade esse número de apólice é dada pelo documento do <a href="https://estagio.catalao.ufg.br/p/36446-apolice" target="_blank"><i>link</i></a>.<br><br>
-
-Após o recolhimento das assinaturas iniciais não se esqueça de preencher o nosso controle interno de estágio que é realizado através do seguinte <a href="https://forms.gle/EpNLhARsHv7NhSsv7" target="_blank">Formulário de <i>checklist</i></a>.<br><br>
-  
+ 
   
 A concessão de bolsa, no ECO, não é compulsória. Para maiores informações em relação a bolsa acesse a <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/BOLSA.html" target="_blank">página de regras para concessão de bolsas</a>.<br><br>
 
