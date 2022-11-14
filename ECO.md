@@ -22,35 +22,35 @@ Realizado o convênio o discente deverá dar andamento aos documentos para elabo
   <li><a href="https://forms.gle/dgQED4teKdPpFhnD6" target="_blank">Plano de atividades do estágio</a>;</li> 
 </ol>
 
-<p align="justify">Os documentos acima seguem padrões de assinatura veja:<br>
+<p align="justify">Os documentos acima seguem padrões de assinatura veja:<br><br>  
+    
+##### Quadro de Horários  
   
-##### Quadro de Horários
+- [x] Discente  
+- [ ] Professor Orientador  
+- [ ] Supervisor  
+- [x] Coordenador de estágio  
+  
+##### Declaração de aceite do profissional supervisor  
+  
+- [x] Discente     
+- [ ] Professor Orientador  
+- [x] Supervisor  
+- [ ] Coordenador de estágio  
 
-- [x] Discente
-- [ ] Professor Orientador
-- [ ] Supervisor
-- [x] Coordenador de estágio
-
-##### Declaração de aceite do profissional supervisor
-
-- [x] Discente
-- [ ] Professor Orientador
-- [x] Supervisor
-- [ ] Coordenador de estágio
-
-##### Declaração de aceite do professor supervisor
-
-- [x] Discente
-- [x] Professor Orientador
-- [ ] Supervisor
-- [ ] Coordenador de estágio
-
-##### Plano de atividades do estágio
-
-- [x] Discente
-- [x] Professor Orientador
-- [x] Supervisor
-- [x] Coordenador de estágio
+##### Declaração de aceite do professor supervisor  
+  
+- [x] Discente  
+- [x] Professor Orientador  
+- [ ] Supervisor  
+- [ ] Coordenador de estágio  
+  
+##### Plano de atividades do estágio  
+  
+- [x] Discente  
+- [x] Professor Orientador  
+- [x] Supervisor  
+- [x] Coordenador de estágio  
   
 <p align="justify">É muito importante que antes da assinatura do contrato de estágio o coordenador do estágio tenha ciência do seu plano de trabalho. Contratos enviados sem o plano de trabalho não serão assinados pela coordenação de estágio.<br><br>
   
