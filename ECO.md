@@ -2,7 +2,7 @@
 
 <p align="justify">Nesta página você discente terá acesso as informações do Estágio Curricular Obrigatório (ECO) da Universidade Federal de Catalão (UFCAT) relativo ao curso de Engenharia Civil.<br><br>
 
-Para você que ainda não conhece o processo do ECO, vamos lá:</p><br><br>
+Para você que ainda não conhece o processo do ECO, vamos lá:</p>
 
 <p align="justify">O discente que irá fazer o ECO precisará estar matriculado na disciplina do curso <b>FEA0061 - ESTÁGIO SUPERVISIONADO</b>. Uma vez matriculado nessa disciplina o discente poderá estabelecer os vínculos com empresas ou profissionais para atuar no mercado de trabalho.<br><br>
   
@@ -17,30 +17,30 @@ Realizado o convênio o discente deverá dar andamento aos documentos para elabo
   <li><a href="https://forms.gle/dgQED4teKdPpFhnD6" target="_blank">Plano de atividades do estágio</a>;</li> 
 </ol>
 
-<p align="justify">Os documentos acima seguem padrões de assinatura veja:<br><br></p>  
+<p align="justify">Os documentos acima seguem padrões de assinatura veja:</p><br>  
     
-##### Quadro de Horários  
+#### Quadro de Horários  
   
 - [x] Discente  
 - [ ] Professor Orientador  
 - [ ] Supervisor  
 - [x] Coordenador de estágio  
   
-##### Declaração de aceite do profissional supervisor  
+#### Declaração de aceite do profissional supervisor  
   
 - [x] Discente     
 - [ ] Professor Orientador  
 - [x] Supervisor  
 - [ ] Coordenador de estágio  
 
-##### Declaração de aceite do professor supervisor  
+#### Declaração de aceite do professor supervisor  
   
 - [x] Discente  
 - [x] Professor Orientador  
 - [ ] Supervisor  
 - [ ] Coordenador de estágio  
   
-##### Plano de atividades do estágio  
+#### Plano de atividades do estágio  
   
 - [x] Discente  
 - [x] Professor Orientador  
