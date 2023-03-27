@@ -29,14 +29,14 @@ Realizado o convênio o discente deverá dar andamento aos documentos para elabo
   
 #### Quadro de Horários 
   
-- [ **x** ] Discente     
+- [x] Discente     
 - [ ] Professor Orientador  
 - [ ] Supervisor  
 - [ ] Coordenador de estágio  
  
 #### Plano de atividades do estágio  
   
-- [ x] Discente  
+- [x] Discente  
 - [x] Professor Orientador  
 - [x] Supervisor  
 - [x] Coordenador de estágio  
