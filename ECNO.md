@@ -58,8 +58,6 @@ Após recolhimento de todas as assinaturas nos documentos é obrigatório a part
 <li>Termo de Compromisso (TCE):  assinado pelo estudante, responsável legal pela concedente e coordenador de estágio do curso.</li> 
 </ol>
 
-Após o recolhimento das assinaturas iniciais não se esqueça de preencher o nosso controle interno de estágio que é realizado através do seguinte <a href="https://forms.gle/EpNLhARsHv7NhSsv7" target="_blank">Fomrulário de <i>checklist</i></a>.<br><br>
-
 <h2>Avaliação do Estágio Curricular Não Obrigatório (ECNO)</h2>
 
 <p align="justify">A avaliação e finalização do estágio tipo ECNO é realizada automaticamente no encerramento do contrato. O discente não tem carga horária mínima ou máxima para realização do estágio porém este deverá produzir relatórios semestrais parciais/finais. O modelo destes relatórios podem ser encontrados no <a href="https://files.cercomp.ufg.br/weby/up/610/o/1.4_Relat%C3%B3rio_de_Atividades_Est%C3%A1gio_n%C3%A3o_obrigat%C3%B3rio_em_empresas_conveniadas_com_a_UFCAT.docx" target="_blank">site da Coordenação Geral de Estágio (CGE)</a>. Acesse o <b>Menu</b> e vá para aba <b>Formulários</b>. Nesta aba você poderá consultar a sua modalidade de estágio e ter acesso ao modelo de relatório.<br><br>
