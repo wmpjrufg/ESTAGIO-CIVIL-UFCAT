@@ -20,8 +20,8 @@ Caso opte por fazer essa intermediação via UFCAT reuna os documentos necessár
 target="_blank">página de convênios do estágio</a>. Você também pode consultar os convênios que já estão celebrados pela nossa universidade no <a href="https://estagio.catalao.ufg.br/p/40059-convenios" target="_blank"><i>link</i></a>.<br><br>
 
   
-Caso a empresa e/ou aluno desejem realizar o processo via outros agentes de integração isso é perfeitamente possível. Como dito anteriormente verifique as empresas habilitadas para gerar o contrato de estágio (TCE).<br><br>
+Caso a empresa e/ou aluno desejem realizar o processo via outros agentes de integração isso é perfeitamente possível. Como dito anteriormente verifique as empresas habilitadas para gerar o contrato de estágio (TCE) junto a CGE.<br><br>
   
-Caso você seja um aluno que deseja aproveitar algum estágio já cadastrado para transformar em ECO. Favor elaborar um termo aditivio de contrato. Para maiores informações consulte a CGE ou o coordenador de estágio do curso.<br><br>
+Caso você seja um aluno que deseja aproveitar algum estágio já cadastrado para se transformar em ECO. Favor elaborar um um novo contrato de estágio. Para maiores informações consulte a CGE ou o coordenador de estágio do curso.<br><br>
 
 Realizado o convênio o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Maiores detalhes sobre os relatórios e termos que devem ser assinados encontram-se nas páginas de cada um dos estágios.</p>
