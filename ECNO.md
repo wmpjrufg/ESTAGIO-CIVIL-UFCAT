@@ -17,7 +17,7 @@ Realizado o convênio o discente deverá dar andamento aos documentos para elabo
 <ol>
 <li>Comprovante de matrícula no curso retirado do SIGAA;</li> 
 <li>Fazer o <i>download</i> do <a href="https://docs.google.com/spreadsheets/d/1YDI6wjQUq7Is5IRhCgKPUsgyvR-Nr7uB/edit?usp=sharing&ouid=114577536524382814918&rtpof=true&sd=true" target="_blank">Quadro de Horários</a> e preencher com a demarcação das horas de estágio e aulas e assinar o PDF;</li> 
-<li><a href="https://docs.google.com/document/d/1YJxzuXPxpWdWLeYs9aTZt-a4g7Z7W6OW/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Plano de atividades do estágio</a>;</li>   
+<li><a href="https://docs.google.com/forms/d/e/1FAIpQLScffwruOEVenFx8l_ITDSkrNP-uPVHVR3GY16Mkg9OLOH2yuw/viewform?usp=sf_link" target="_blank">Plano de atividades do estágio</a>;</li>   
 </ol>
 
 #### Comprovante de matrícula no curso retirado do SIGAA 
@@ -29,7 +29,7 @@ Realizado o convênio o discente deverá dar andamento aos documentos para elabo
   
 #### Quadro de Horários 
   
-- [x] Discente     
+- [**x**] Discente     
 - [ ] Professor Orientador  
 - [ ] Supervisor  
 - [ ] Coordenador de estágio  
