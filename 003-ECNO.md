@@ -6,7 +6,7 @@
 <p align="justify">O discente que irá fazer o ECNO não precisará estar matriculado na componente curricular do curso <b>ESTÁGIO SUPERVISIONADO</b>. Portanto basta ser aluno regular (com matrícula ativa) do curso de Engenharia Civil e estar com 25% da carga horária total integralizada.</p>
 
 
-<p align="justify">Para estabelecer o vínculo o discente deverá ter um intermediário que é o agente integrador. O agente integrador é o meio pelo qual os três pilares do estágio são conectados. Para consultar maiores detalhes sobre esta integração acesse o <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/002-INTEGRACAO.html" target="_blank"><i>link</i></a>.</p>
+<p align="justify">Para estabelecer o vínculo o discente deverá ter um intermediário que é o agente integrador. O agente integrador é o meio pelo qual os três pilares do estágio são conectados. Para consultar maiores detalhes sobre esta integração acesse o <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/002-PASSOS.html" target="_blank"><i>link</i></a>.</p>
 
   
 <p align="justify">Realizado o convênio o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Para dar andamento a esse documento, tenha os seguintes documentos devidamente assinados:</p>

@@ -11,7 +11,7 @@
         <dd><p align="justify">Estágio Curricular Não Obrigatório é aquele desenvolvido como atividade opcional, acrescida à carga horária regular e obrigatória.</p></dd>
 </dl>
 
-TEXTO REGULAMENTAÇÃO ESTÁGIO LEI E CEPEC?????.<br><br>
+<p align="justify">Além da lei 11788 o estágio na UFCAT é regulamentado por duas normativas internas: a Resolução CEPEC nº 1672 e o RGCG da UFG.</p>
 
 <p align="justify">Os estágios só podem ser realizados em instituições e empresas conveniadas com a UFCAT, que tenham condições de proporcionar experiência prática e aplicação de conhecimentos integrantes do currículo do curso, permitindo complementar o ensino e a aprendizagem.</p>
 

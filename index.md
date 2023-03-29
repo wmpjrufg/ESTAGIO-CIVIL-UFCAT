@@ -4,7 +4,7 @@
 
 Selecione o tipo de informações que você deseja?
 1. [Política do estágio](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/001-POLITICA.html);
-2. [Passos iniciais](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/002-INTEGRACAO.html);
+2. [Passos iniciais](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/002-PASSOS.html);
 3. [Estágio Não Obrigatório (ECNO)](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/003-ECNO.html);
 4. [Estágio Obrigatório (ECO)](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/004-ECO.html);
 5. [Bolsas para estágio](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/005-BOLSA.html);
