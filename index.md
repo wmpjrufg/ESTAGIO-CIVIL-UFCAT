@@ -3,14 +3,16 @@
 <p align="justify">Nessa página você poderá encontrar documentações e informações a respeito do estágio no curso de Engenharia Civil da UFCAT.</p> 
 
 Selecione o tipo de informações que você deseja?
+1. [Política do estágio](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/001-POLITICA.html);
+   
+2. [Passos iniciais](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/002-INTRECAGAO.html);
+ 
+3. [Estágio Não Obrigatório (ECNO)](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/003-ECNO.html);
 
-1. [Roteiro geral do processo](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/AGENTE.html);
-2. [Estágio Obrigatório (ECO)](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/ECO.html);
-3. [Estágio Não Obrigatório (ECNO)](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/ECNO.html);
-4. [Bolsas para estágio](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/BOLSA.html);
-5. [Resolução geral de estágio da Universidade](https://files.cercomp.ufg.br/weby/up/579/o/Resolucao_CEPEC_2017_1557R.pdf);
-6. [PPC do curso de Engenharia Civil item 7 - Política de Estágio](https://files.cercomp.ufg.br/weby/up/620/o/ppc.pdf);
-7. [Perguntas frequentes](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/PERGUNTAS.html).
+4. [Estágio Obrigatório (ECO)](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/004-ECO.html);
+ 
+5. [Bolsas para estágio](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/005-BOLSA.html);
+   
 
 Coordenação: [Dr. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)  
 Vice-Coordenação: [Dra. Eliane Aparecida Justino](http://lattes.cnpq.br/6366855147494701)  
@@ -18,6 +20,6 @@ Portaria: **Portaria SEI N° 19, de 19 de Abril de 2021**
 
 Contato por correio eletrônico: _**estagio.deciv.ufcat@gmail.com**_
 
-<p align="justify"><i>De acordo com a Lei 11788/2008, o Estágio é ato educativo escolar supervisionado, desenvolvido no ambiente de trabalho, que visa à preparação para o trabalho produtivo de educandos que estejam frequentando o ensino regular em instituições de educação superior, de educação profissional, de ensino médio, da educação especial e dos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos.</i></p>
+<p align="justify"><i>De acordo com a Lei 11788 (2008), o Estágio é ato educativo escolar supervisionado, desenvolvido no ambiente de trabalho, que visa à preparação para o trabalho produtivo de educandos que estejam frequentando o ensino regular em instituições de educação superior, de educação profissional, de ensino médio, da educação especial e dos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos.</i></p>
 
 
