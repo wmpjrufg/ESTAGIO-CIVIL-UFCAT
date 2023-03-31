@@ -2,7 +2,7 @@
 
 <p align="justify">Segundo a <a href="https://estagio.catalao.ufg.br/p/37386-lei-n-11-788-de-25-de-setembro-de-2008" target="_blank">Lei nº 11788</a> o estágio é ato educativo escolar supervisionado, desenvolvido no ambiente de trabalho, que visa à preparação para o trabalho produtivo de educandos que estejam freqüentando o ensino regular em instituições de educação superior, de educação profissional, de ensino médio, da educação especial e dos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos.</p>
 
-<p align="justify">O estágio será dividido em duas modalidades e serão classificados da seguinte forma:.</p>
+<p align="justify">O estágio será dividido em duas modalidades e serão classificados da seguinte forma:</p>
 
 <dl>
     <dt>Estágio Curricular Obrigatório (ECO)</dt>
