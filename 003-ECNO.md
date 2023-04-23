@@ -62,12 +62,12 @@
 <p align="justify">O documento despacho deverá ser criado pelo aluno dentro do processo SEI com o seguinte padrão:</p>
 
 <p align="justify">
-À Coordenação Geral de Estágios (CGE/UFCAT)
+À Coordenação Geral de Estágios (CGE/UFCAT)<br><br>
 
-Assunto: Inserção do estágio não obrigatório no histórico acadêmico.
+Assunto: Inserção do estágio não obrigatório no histórico acadêmico.<br><br>
 
-Prezados(as),
-A Coordenação de Estágios do Curso de <b>?????</b>, vem, por meio deste, solicitar a inserção do Estágio Não Obrigatório no Histórico do discente <b>?????</b>, matrícula <b>?????</b>, do curso de Licenciatura/Bacharelado (Aqui escolher o correto) em <b>?????</b>, com Estágio Não obrigatório realizado na empresa <b>?????</b>, através do IEL/CIEE/UFCAT/UFG (Aqui escolher o correto), com carga horária de <b>?????</b>/semanais, iniciado em <b>?????</b> e finalizado em <b>?????</b>, tendo o estudante cumprido com todas as atividades do seu plano e entregue os relatórios parcial e final, com ciência e aprovação da Coordenadora de Estágio do Curso de <b>?????</b>, totalizando <b>?????</b> horas de estágio não obrigatório.
+Prezados(as),<br>
+A Coordenação de Estágios do Curso de Engenharia Civil, vem, por meio deste, solicitar a inserção do Estágio Não Obrigatório no Histórico do discente <b><font color = "blue">?????</font></b>, matrícula <b><font color = "blue">?????</font></b>, do curso de Bacharelado em Engenharia Civil, com Estágio Não obrigatório realizado na empresa <b><font color = "blue">?????</font></b>, através do <font color = "blue">???IEL/CIEE/UFCAT/UFG??? (Aqui escolher o correto)</font>, com carga horária de <b><font color = "blue">?????</font></b>/semanais, iniciado em <b><font color = "blue">?????</font></b> e finalizado em <b><font color = "blue">?????</font></b>, tendo o estudante cumprido com todas as atividades do seu plano e entregue os relatórios parcial e final, com ciência e aprovação da Coordenadora de Estágio do Curso de Engenharia Civil, totalizando <b><font color = "blue">?????</font></b> horas de estágio não obrigatório.<br><br>
 
 Atenciosamente,
 </p>
