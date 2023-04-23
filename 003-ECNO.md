@@ -46,3 +46,30 @@
 <p align="justify">Em caso de desligamento do estágio deverá ser preenchido o <a href="https://files.cercomp.ufg.br/weby/up/610/o/1.5_Formul%C3%A1rio_de_Desligamento_Est%C3%A1gio_n%C3%A3o_obrigat%C3%B3rio_em_empresas_conveniadas_com_a_UFCAT.docx" target="_blank">termo de desligamento do estágio</a>. Após o preenchimento e devidas assinaturas anexe o mesmo no seu processo SEI.</p>
   
 <p align="justify">É recomendável que o relatório semestral de estágio não obrigatório seja elaborado com o decorrer do estágio pois como se trata de um periódo muito extenso, portanto algumas informações podem se perder nesta caminhada.</p>
+
+<p align="justify">Além disso o discente poderá solicitar a inclusão do seu Estágio Não Obrigatório no histórico escolar. Para que seja possível a inserção deste estágio no seu histórico os seguintes documentos devem estar finalizados no processo.</p>
+
+<ol>
+  <li>Termo de compromisso de estágio (TCE);</li>
+  <li>Plano de Atividades (PA);</li>
+  <li>Relatório Parcial (que deve abranger período nunca superior a 6 meses de estágio);</li>
+  <li>Relatório Final (com menção de aprovação do Coordenador de Estágios do curso);</li>
+  <li>Formulário de Desligamento de Estágio (caso tenha sido encerrado antes do período previsto no TCE e PA);</li>
+  <li>Termo Aditivo (caso o período inicial do estágio tenha sido prorrogado).</li>
+  <li>Despacho elaborado pelo Coordenador de Estágio do Curso.</li>
+</ol>
+
+<p align="justify">O documento despacho deverá ser criado pelo aluno dentro do processo SEI com o seguinte padrão:</p>
+
+<p align="justify">
+À Coordenação Geral de Estágios (CGE/UFCAT)
+
+Assunto: Inserção do estágio não obrigatório no histórico acadêmico.
+
+Prezados(as),
+A Coordenação de Estágios do Curso de <b>?????</b>, vem, por meio deste, solicitar a inserção do Estágio Não Obrigatório no Histórico do discente <b>?????</b>, matrícula <b>?????</b>, do curso de Licenciatura/Bacharelado (Aqui escolher o correto) em <b>?????</b>, com Estágio Não obrigatório realizado na empresa <b>?????</b>, através do IEL/CIEE/UFCAT/UFG (Aqui escolher o correto), com carga horária de <b>?????</b>/semanais, iniciado em <b>?????</b> e finalizado em <b>?????</b>, tendo o estudante cumprido com todas as atividades do seu plano e entregue os relatórios parcial e final, com ciência e aprovação da Coordenadora de Estágio do Curso de <b>?????</b>, totalizando <b>?????</b> horas de estágio não obrigatório.
+
+Atenciosamente,
+</p>
+
+<p align="justify">Após a construção deste documento avise o coordenador para que o mesmo possa enviar o processo para or orgãos internos de controle e então o processo seja finalizado corretamente.</p>
